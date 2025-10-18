@@ -1,0 +1,22 @@
+{
+  "kelsey": {
+    "images": [
+      "images/kelsey_1.jpg"
+    ],
+    "tags": [
+      "白衣",
+      "メガネ",
+      "長髪"
+    ]
+  },
+  "skadi": {
+    "images": [
+      "images/skadi_default.jpg"
+    ],
+    "tags": [
+      "白髪",
+      "ロング",
+      "海の意匠"
+    ]
+  }
+}
