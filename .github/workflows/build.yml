@@ -36,6 +36,11 @@ jobs:
           test -f ./docs/latest/index.json || (echo "index.json not generated" && exit 1)
           echo "Top of docs:"; ls -R ./docs | head -n 200
 
+      - name: List stories (debug)
+        run: |
+          test -d ./docs/latest/stories && ls ./docs/latest/stories | head -n 50 || echo "no stories dir"
+
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
