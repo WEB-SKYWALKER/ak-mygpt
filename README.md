@@ -1,6 +1,6 @@
-# Arknights Data Site — Starter Kit (.txt 対応)
+# Arknights Data Site (.txt 対応)
 
-このスターターは **外部リポの取得を行わず**、リポ内の `gamedata/` を唯一のソースにして
+ **外部リポの取得を行わず**、リポ内の `gamedata/` を唯一のソースにして
 `docs/` 以下へ静的出力を作成し、GitHub Pages で公開します。
 
 ## 置き場所
