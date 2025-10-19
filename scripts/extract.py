@@ -1,115 +1,170 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+"""
+Arknights Data Site — extractor
+- 入力:
+    EXCEL_SRC: gamedata/excel         … *.json 群（階層保持）
+    STORY_SRC: gamedata/story         … *.txt  群（階層保持）
+    OUT_DIR  : docs                   … 生成先（docs/）
+    STORY_JSON_WRAPPER: "true"/"false"
+        true の場合、.txt を JSON でも複製して配信
+
+- 出力構成:
+  docs/
+    ├─ latest/
+    │   ├─ index.json
+    │   ├─ excel/        (EXCEL_SRC のコピー)
+    │   ├─ story/        (STORY_SRC の .txt コピー)
+    │   └─ story_json/   (任意) .txt を {"path","name","text"} で JSON 変換
+    └─ release/YYYY-MM-DD/  ← latest のスナップショット
+"""
+
 from __future__ import annotations
-
-"""
-ローカル（同リポ内）の gamedata/excel と gamedata/story を唯一のソースとして、
-GitHub Pages で配信する静的成果物 docs/ を生成します。
-
-- Excel系: そのままコピー（差分不要なら丸ごと）。併せて index.json を作成
-- Story系: .txt をそのままコピーし、一覧用の story/index.json を作成
-           環境変数 STORY_JSON_WRAPPER=true のとき、各 .txt の JSON ラッパーも生成
-- リリーススナップショット: docs/release/YYYY-MM-DD/ にも同内容を出力
-- ルートの docs/latest/index.json に全体メタ情報を出力
-"""
-
-import os, json, shutil, time
-from datetime import datetime, timezone
+import os
+import json
+import shutil
 from pathlib import Path
+from datetime import datetime
 
-ROOT = Path(__file__).resolve().parent.parent
-SRC_EXCEL = ROOT / "gamedata" / "excel"
-SRC_STORY = ROOT / "gamedata" / "story"
-DOCS = ROOT / "docs"
-LATEST = DOCS / "latest"
-RELEASE_ROOT = DOCS / "release" / datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d")
+# ===== 設定（環境変数） =====
+EXCEL_DIR = Path(os.environ.get("EXCEL_SRC", "gamedata/excel"))
+STORY_DIR = Path(os.environ.get("STORY_SRC", "gamedata/story"))
+OUT_DIR   = Path(os.environ.get("OUT_DIR", "docs"))
+WRAP_TXT  = os.environ.get("STORY_JSON_WRAPPER", "false").lower() == "true"
 
-def _copy_tree(src: Path, dst: Path, patterns: tuple[str, ...] = ("*",)):
+LATEST_DIR  = OUT_DIR / "latest"
+RELEASE_DIR = OUT_DIR / "release" / datetime.utcnow().strftime("%Y-%m-%d")
+
+
+def _clean_dir(p: Path):
+    if p.exists():
+        shutil.rmtree(p)
+    p.mkdir(parents=True, exist_ok=True)
+
+
+def _copy_tree(src: Path, dst: Path, patterns: tuple[str, ...]):
+    """
+    src 以下のファイルのうち patterns にマッチするものだけを
+    ディレクトリ階層を保ったまま dst にコピー
+    """
+    count = 0
     if not src.exists():
-        return []
-    copied = []
-    for pat in patterns:
-        for p in src.rglob(pat):
-            if p.is_dir():
-                continue
-            rel = p.relative_to(src)
+        return 0
+
+    for path in src.rglob("*"):
+        if path.is_file() and any(path.name.endswith(ext) for ext in patterns):
+            rel = path.relative_to(src)
             out = dst / rel
             out.parent.mkdir(parents=True, exist_ok=True)
-            try:
-                import shutil as _sh
-                _sh.copy2(p, out)
-            except Exception:
-                continue
-            st = out.stat()
-            copied.append((rel.as_posix(), st.st_size, int(st.st_mtime)))
-    return copied
-
-def _write_json(path: Path, obj):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
-
-def build_excel():
-    latest_excel = LATEST / "excel"
-    release_excel = RELEASE_ROOT / "excel"
-    copied = _copy_tree(SRC_EXCEL, latest_excel, patterns=("*.json",))
-    _copy_tree(SRC_EXCEL, release_excel, patterns=("*.json",))
-
-    index = {"generated": int(time.time()),
-             "files": [{"path": p, "bytes": b, "mtime": m} for p, b, m in sorted(copied)]}
-    _write_json(latest_excel / "index.json", index)
-    _write_json(release_excel / "index.json", index)
-    return {"excel_files": len(copied)}
-
-def build_story():
-    latest_story = LATEST / "story"
-    release_story = RELEASE_ROOT / "story"
-    copied = _copy_tree(SRC_STORY, latest_story, patterns=("*.txt",))
-    _copy_tree(SRC_STORY, release_story, patterns=("*.txt",))
-
-    sindex = {"generated": int(time.time()),
-              "files": [{"path": p, "bytes": b, "mtime": m} for p, b, m in sorted(copied)]}
-    _write_json(latest_story / "index.json", sindex)
-    _write_json(release_story / "index.json", sindex)
-
-    # Optional: also create wrapped JSON for .txt
-    if os.getenv("STORY_JSON_WRAPPER", "false").lower() in ("1", "true", "yes"):
-        latest_wrap = LATEST / "story_json"
-        release_wrap = RELEASE_ROOT / "story_json"
-        count = 0
-        for (rel, _, _m) in copied:
-            src_txt = latest_story / rel
-            text = src_txt.read_text(encoding="utf-8", errors="ignore")
-            payload = {"path": rel, "lang": "ja", "text": text}
-            for base in (latest_wrap, release_wrap):
-                out = base / Path(rel).with_suffix(".json")
-                _write_json(out, payload)
+            shutil.copy2(path, out)
             count += 1
-    else:
-        count = 0
-    return {"story_txt_files": len(copied), "story_json_wrapped": count}
+    return count
 
-def write_root_index(stats_excel, stats_story):
-    meta = {"generated": int(time.time()),
-            "release": RELEASE_ROOT.name,
-            "sources": {"excel_dir": str(SRC_EXCEL), "story_dir": str(SRC_STORY)},
-            "stats": {**stats_excel, **stats_story}}
-    _write_json(LATEST / "index.json", meta)
-    _write_json(RELEASE_ROOT / "index.json", meta)
+
+def _wrap_story_txt_to_json(story_root: Path, json_root: Path):
+    """
+    story_root 以下の .txt を JSON にして json_root 以下に保存
+    JSON 形式: {"path": "<相対パス>", "name": "<ファイル名>", "text": "<内容>"}
+    """
+    n = 0
+    for txt in story_root.rglob("*.txt"):
+        rel = txt.relative_to(story_root)
+        out = (json_root / rel).with_suffix(".json")
+        out.parent.mkdir(parents=True, exist_ok=True)
+        text = txt.read_text(encoding="utf-8", errors="replace")
+        payload = {
+            "path": str(rel).replace("\\", "/"),
+            "name": txt.stem,
+            "text": text
+        }
+        out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        n += 1
+    return n
+
+
+def _build_index(latest_dir: Path, excel_root: Path, story_root: Path, wrapped: bool):
+    index = {
+        "generated_at": datetime.utcnow().isoformat() + "Z",
+        "excel_count": 0,
+        "story_txt_count": 0,
+        "story_json_count": 0,
+        "paths": {
+            "excel": "excel/",
+            "story": "story/",
+            "story_json": "story_json/" if wrapped else None
+        },
+        "lists": {
+            "excel": [],
+            "story": [],
+            "story_json": []
+        }
+    }
+
+    # excel
+    for f in excel_root.rglob("*.json"):
+        index["lists"]["excel"].append(str(f.relative_to(excel_root)).replace("\\", "/"))
+    index["excel_count"] = len(index["lists"]["excel"])
+
+    # story txt
+    for f in story_root.rglob("*.txt"):
+        index["lists"]["story"].append(str(f.relative_to(story_root)).replace("\\", "/"))
+    index["story_txt_count"] = len(index["lists"]["story"])
+
+    # story json (optional)
+    if wrapped:
+        sj = latest_dir / "story_json"
+        for f in sj.rglob("*.json"):
+            index["lists"]["story_json"].append(str(f.relative_to(sj)).replace("\\", "/"))
+        index["story_json_count"] = len(index["lists"]["story_json"])
+
+    (latest_dir / "index.json").write_text(
+        json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
 
 def main():
-    # reset output dirs
-    if LATEST.exists():
-        import shutil; shutil.rmtree(LATEST)
-    if RELEASE_ROOT.exists():
-        import shutil; shutil.rmtree(RELEASE_ROOT)
-    LATEST.mkdir(parents=True, exist_ok=True)
-    RELEASE_ROOT.mkdir(parents=True, exist_ok=True)
+    print("== Build start ==")
+    print(f"EXCEL_SRC={EXCEL_DIR}")
+    print(f"STORY_SRC={STORY_DIR}")
+    print(f"OUT_DIR={OUT_DIR}")
+    print(f"STORY_JSON_WRAPPER={WRAP_TXT}")
 
-    stats_excel = build_excel()
-    stats_story = build_story()
-    write_root_index(stats_excel, stats_story)
-    (DOCS / "README.txt").write_text("Generated static files. See ./latest/ and ./release/\\n", encoding="utf-8")
-    print("DONE")
+    # latest を作り直し
+    _clean_dir(LATEST_DIR)
+
+    # 1) excel json をコピー
+    excel_out = LATEST_DIR / "excel"
+    excel_out.mkdir(parents=True, exist_ok=True)
+    excel_cnt = _copy_tree(EXCEL_DIR, excel_out, patterns=(".json",))
+    print(f"Copied excel json: {excel_cnt}")
+
+    # 2) story txt をコピー
+    story_out = LATEST_DIR / "story"
+    story_out.mkdir(parents=True, exist_ok=True)
+    story_cnt = _copy_tree(STORY_DIR, story_out, patterns=(".txt",))
+    print(f"Copied story txt: {story_cnt}")
+
+    # 3) (任意) txt → json 変換
+    story_json_cnt = 0
+    if WRAP_TXT:
+        story_json_out = LATEST_DIR / "story_json"
+        story_json_out.mkdir(parents=True, exist_ok=True)
+        story_json_cnt = _wrap_story_txt_to_json(story_out, story_json_out)
+        print(f"Wrapped story txt → json: {story_json_cnt}")
+
+    # 4) index.json
+    _build_index(LATEST_DIR, excel_out, story_out, wrapped=WRAP_TXT)
+    print("Wrote index.json")
+
+    # 5) release スナップショット
+    if RELEASE_DIR.exists():
+        shutil.rmtree(RELEASE_DIR)
+    shutil.copytree(LATEST_DIR, RELEASE_DIR)
+    print(f"Snapshot created: {RELEASE_DIR}")
+
+    print("== Build done ==")
+
 
 if __name__ == "__main__":
     main()
