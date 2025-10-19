@@ -1,0 +1,17 @@
+まずやること（実運用スタート）
+
+ベースURLを控える
+GitHub の右側「Deployments → github-pages → View deployment」を開いたURLを、
+
+BASE = https://<あなた>.github.io/ak-mygpt のようにメモしておきます。
+確認すべきパス（どれもブラウザで開けます）
+
+${BASE}/latest/index.json（最新インデックス）
+
+${BASE}/latest/excel/character_table.json（キャラ定義）
+
+${BASE}/latest/story/<任意>.txt（テキスト原文）
+
+${BASE}/latest/story_json/<任意>.json（.txtのJSON包装版）
+
+${BASE}/release/YYYY-MM-DD/index.json（日付スナップショット）
