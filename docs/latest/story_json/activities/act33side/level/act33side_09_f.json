@@ -1,0 +1,5 @@
+{
+  "path": "activities/act33side/level/act33side_09_f.txt",
+  "name": "act33side_09_f",
+  "text": "[header(actId=\"act33side\")]\n[camerafocusto(offsetX=\"4\", offsetY=\"3\", time=\"1\", scale=\"CLOSE\")]\n[delay(time=\"1\")]\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]さようなら、アーミヤ。あなたが目覚めた時、すべてが終わっているでしょう……\n[resetcamera]\n[end]\n"
+}

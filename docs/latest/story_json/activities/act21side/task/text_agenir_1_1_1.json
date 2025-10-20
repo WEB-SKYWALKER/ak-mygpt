@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_agenir_1_1_1.txt",
+  "name": "text_agenir_1_1_1",
+  "text": "[dialog(head=\"npc_692_1\",delay=1,style=\"self\")]ベルナルド……君が夢見るシラクーザは、君が滅ぼしたいと願うすべてがあるからこそ存在しうるのだと言ったら、君はどんな反応をするだろうか？\n[dialog(head=\"npc_692_1\",delay=1,style=\"self\")]必要なのはファミリーではなく、ルールなのだよ。\n[dialog(head=\"npc_692_1\",delay=1,style=\"self\")]はぁ……まあいい。\n[dialog(head=\"npc_692_1\",delay=1,style=\"self\")]私も歳かもしれないな。\n[dialog(head=\"npc_694_1\",delay=1,style=\"other\")]おや？いつも昼寝ばかりしている爺さんが、こんな時間に物思いにふけっているとは珍しいですね。\n[dialog(head=\"npc_692_1\",delay=1,style=\"self\")]ベン……\n"
+}

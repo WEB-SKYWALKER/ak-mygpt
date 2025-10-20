@@ -1,0 +1,5 @@
+{
+  "path": "obt/main/level_main_14-20_beg.txt",
+  "name": "level_main_14-20_beg",
+  "text": "[HEADER(key=\"title_test\", is_skippable=true, fit_mode=\"BLACK_MASK\")]\n[skipnode(mode=\"nofirstskip\")]\n[theater(mode=true)]\n[stopmusic]\n[Background(image=\"bg_black\", screenadapt=\"coverall\", block=true)]\n[Dialog]\n[delay(time=2)]\n[Character]\n[Video(res=\"video/02.mp4\")]\n[Dialog]\n[theater(mode=false)]\n"
+}

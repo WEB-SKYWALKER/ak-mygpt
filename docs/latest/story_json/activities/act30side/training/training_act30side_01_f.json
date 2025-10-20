@@ -1,0 +1,5 @@
+{
+  "path": "activities/act30side/training/training_act30side_01_f.txt",
+  "name": "training_act30side_01_f",
+  "text": "[HEADER(is_skippable=true, is_tutorial=true)] \n[Battle.LockFunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[Battle.Pause]\n[InputBlocker(blockInput=false)]\n[Tutorial(waitForSignal=\"put_down\", dialogHead=\"$avatar_snakek\", animStyle=\"Drag\", \\\n          startX=-62, startY=60, startAnchor=\"BottomRight\", endX=312, endY=-38)] \\\n急いで「空気口」を<@tu.kw>守ろう</>！\n[Battle.UnlockFunction(mask=\"SYSTEM_MENU_INTERACT\")]\n"
+}

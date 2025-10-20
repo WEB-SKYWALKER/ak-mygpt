@@ -1,0 +1,5 @@
+{
+  "path": "activities/act12d0/training/training_act12d0_01_c.txt",
+  "name": "training_act12d0_01_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动12d0教学关_c\n[Tutorial(focusX=220, focusY=120, focusWidth=100, focusHeight=100, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_tomimi\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nキノコを伐採すれば、遠距離攻撃が得意な人は切り株の上から攻撃できるはずです。\n[PopupDialog(dialogHead=\"$avatar_ccheal\")] 待てよ、こいつらはお前の子分だろ？　なんでロドスの服を着てんだ？\n[PopupDialog(dialogHead=\"$avatar_tomimi\")] えっと、それはドクターがジャングルに入る前に、部下の何人かを雇えないかって聞いてきたので……\n"
+}

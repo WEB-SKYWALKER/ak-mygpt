@@ -1,0 +1,5 @@
+{
+  "path": "activities/act31side/training/training_act31side_01_a.txt",
+  "name": "training_act31side_01_a",
+  "text": "[HEADER(is_tutorial=true, is_skippable=true, is_autoable=false)] 活动31side教学关_01a\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.2)]\n[PopupDialog(dialogHead=\"$avatar_dusk\")]ふぅ、たまにはここの風景を眺めるのも悪くないわね。煩わしいどこかの誰かの邪魔も入らないし。\n[InputBlocker(blockInput=true, black=0)]\n[Battle.Pause(pause=false)]\n[Delay(time=3)]\n[Battle.Pause(pause=true)]\n[InputBlocker(blockInput=true, black=0.2)]\n[PopupDialog(dialogHead=\"$avatar_dusk\")]あら？　水田を荒らす害獣？\n[PopupDialog(dialogHead=\"$avatar_dusk\")]いえ、違うわね……\n"
+}

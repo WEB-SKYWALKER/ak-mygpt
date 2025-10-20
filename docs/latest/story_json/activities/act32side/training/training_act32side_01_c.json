@@ -1,0 +1,5 @@
+{
+  "path": "activities/act32side/training/training_act32side_01_c.txt",
+  "name": "training_act32side_01_c",
+  "text": "[PopupDialog(dialogHead=\"$avatar_jesica\")] すみません……装甲を着込んで来るべきでした……\n[Tutorial(focusX=255, focusY=104, focusWidth=246, focusHeight=120, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n<@tu.kw>「直線射撃」</>を防ぐには、<@tu.kw>バリケード</>の後方に位置取ればいい。<@tu.kw>バリケード</>で敵の視界を遮っていれば、その後方のオペレーターに敵が<@tu.kw>「直線射撃」</>を仕掛けることはない。\n[PopupDialog(dialogHead=\"$avatar_doberm\")] もちろん、あえて敵の視界に味方オペレーターを配置し、<@tu.kw>「直線射撃」</>の火力を引き付ける戦術もありだ。\n[PopupDialog(dialogHead=\"$avatar_snakek\")] そういう仕事はボクに任せて！\n"
+}

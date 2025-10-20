@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_giovanna_1_3_1.txt",
+  "name": "text_giovanna_1_3_1",
+  "text": "[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]ブランデーでいいですか？\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]ええ。\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]じゃあ、そのように。そうそう、ブツの準備はできてますよ。\n[narration(delay=1)]彼女は小包を受け取った。\n[Obtain(id=\"item_bribery\",delay=1.5)]\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]パーティーは三十分後？\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]次は私の代わりにあなたが行ってもいいかもね。\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]ドン……\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]冗談よ。\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]……あの取引、本当に断るおつもりですか？\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]あら、不満？\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]あなたのご判断ですから、俺に意見なんてありませんよ。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]――ウォラック。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]利益の追求には節度を持つべきよ。\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]……はい。\n"
+}

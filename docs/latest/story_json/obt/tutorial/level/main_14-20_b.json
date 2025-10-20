@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_14-20_b.txt",
+  "name": "main_14-20_b",
+  "text": "[header(actId=\"main14\")]\n[camerafocusto(offsetX=\"5\", offsetY=\"1\", time=\"2\", scale=\"CLOSE\")]\n[delay(time=\"2\")]\n[name=\"W\", avatarId=\"char_1035_wisdel_2\", isAvatarRight=\"TRUE\"] あら、だいぶ体が楽になったわ、子ウサギ。\n[name=\"W\", avatarId=\"char_1035_wisdel_2\", isAvatarRight=\"TRUE\"] さあ……やるべきことをしましょう。\n[camerafocusto(offsetX=\"7.5\", offsetY=\"2\", time=\"2\", scale=\"CLOSE\")]\n[delay(time=\"2\")]\n[name=\"アーミヤ\", avatarId=\"char_1037_amiya3_2\", isAvatarRight=\"TRUE\"] テレジアさん……私は歩みを止めません！\n[resetCamera(times=\"2\")]\n[delay(time=\"2\")]\n[end]\n"
+}

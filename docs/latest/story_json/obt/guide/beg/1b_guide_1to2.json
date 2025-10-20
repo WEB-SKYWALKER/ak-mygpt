@@ -1,0 +1,5 @@
+{
+  "path": "obt/guide/beg/1b_guide_1to2.txt",
+  "name": "1b_guide_1to2",
+  "text": "[HEADER(is_tutorial=true, is_skippable=true, fit_mode=\"BLACK_MASK\", deny_auto_switch_scene=true)] 引导1到引导2(b)\n[Character(name=\"$ill_amiya_normal\")]\n[Blocker(afrom=1, a=0, fadetime=1, block=true)]\n[name=\"アーミヤ\"]   ……？　今、何が起きたんですか？　ドクターが急に黙り込んで……まるで、時間が止まったみたいでしたが……\n[Character(name=\"$ill_amiya_normal\", focus=-1)]\n[name=\"？？？\"]   Dr.{@nickname}が、実行中のアプリケーションを切り替えたという記録が残っています。\n[Character(name=\"$ill_amiya_normal\", focus=0)]\n[name=\"アーミヤ\"]   なるほど。では、ドクターを先ほどまでの環境に戻してください。戦いはまだ続いていますので。\n[SkipToThis]\n[StartBattle(stageId=\"guide_02\")]\n[Tutorial(waitForSignal=\"battle_start\")]\n"
+}

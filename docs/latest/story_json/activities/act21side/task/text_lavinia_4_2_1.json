@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_lavinia_4_2_1.txt",
+  "name": "text_lavinia_4_2_1",
+  "text": "[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]ほら、着いたわよ。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]うっ……ごめん、法典に血が……\n[OptionBranch(option0=\"option_Lavinia_4_2_1_1\",option1=\"option_Lavinia_4_2_1_2\",delay=2)]\n"
+}

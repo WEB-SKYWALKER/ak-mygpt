@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/battleavg/dialog_sandbox_0_main_10b_appear.txt",
+  "name": "dialog_sandbox_0_main_10b_appear",
+  "text": "[HEADER(actId=\"act1sandbox\", npcId=\"trap_432_oldisin\")] \n[character(name=\"avg_npc_173\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"イシン\"]……\n[name=\"イシン\"]なんたる惨状……このイシンですら、幾年も目の当たりにしなかったような凄惨さだ……\n[End]\n"
+}

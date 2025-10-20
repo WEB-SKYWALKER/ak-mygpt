@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-17_g.txt",
+  "name": "main_15-17_g",
+  "text": "[header(is_skippable=false, is_autoable=false, is_tutorial=true)]主线15-17演出关story_g\n[battle.lockfunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[inputblocker(blockInput=true)]\n[battle.delay(time=2.2)]\n[battle.pause]\n[battle.ensuremincost(cost=32)]\n[inputblocker(blockInput=false)]\n[tutorial(animStyle=\"Drag\", protectTime=0.5, waitForSignal=\"put_down\", cardIndex=0, startCardIndex=0, endTileX=5, endTileY=6, charId=\"char_509_acast\")]\n[tutorial(animStyle=\"Drag\", waitForSignal=\"select_direction\", startTileX=5, startTileY=6, endTileX=5, endTileY=4)]\n[battle.unlockfunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[battle.pause(pause=false)]\n"
+}

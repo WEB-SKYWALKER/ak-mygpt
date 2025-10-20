@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_a.txt",
+  "name": "guide_02_a",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_a\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 「レユニオンムーブメント」は単なる無秩序な感染者集団だったはずですが……\n[PopupDialog(dialogHead=\"$avatar_amiya\")] でも今は、明確な意志の元に集団で行動している様に見えます。\n[PopupDialog(dialogHead=\"$avatar_amiya\")] では、次の敵を迎撃する準備を。\n"
+}

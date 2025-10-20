@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_h.txt",
+  "name": "guide_02_h",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_g\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] あわせてもう一人配置しました。迎撃の指揮をお願いします。\n[Battle.EnsureMinSp(charId=\"char_107_liskam\", sp=100)]\n[Battle.EnsureMinSp(charId=\"char_103_angel\", sp=100)]\n"
+}

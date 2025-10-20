@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/training_2_a.txt",
+  "name": "training_2_a",
+  "text": "[HEADER(is_tutorial=true)] 训练关卡2a\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_doberm\")] ジェシカ、知っているとは思うが、オペレーターを配置する際には向きを指定する必要がある。\n[PopupDialog(dialogHead=\"$avatar_doberm\")] まずは配置済の<@tu.kw>レンジャー</>がどうやって敵に攻撃するか観察してみろ。\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

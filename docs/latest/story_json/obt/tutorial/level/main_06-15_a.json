@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_06-15_a.txt",
+  "name": "main_06-15_a",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 主线06-15关卡内剧情a\n[PopupDialog(dialogHead=\"$avatar_amiya\")] アーツを維持するのもそろそろ限界です！\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 彼女のアーツが……まだ効いてるの！？\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

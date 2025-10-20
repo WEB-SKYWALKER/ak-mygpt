@@ -1,0 +1,5 @@
+{
+  "path": "activities/a001/tutorial_a001_03.txt",
+  "name": "tutorial_a001_03",
+  "text": "[HEADER(is_skippable=true)] A001_01_b关卡内剧情\n[PopupDialog(dialogHead=\"$avatar_skadi\")]  あなたたちだけでどうにかなると思ったの？\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

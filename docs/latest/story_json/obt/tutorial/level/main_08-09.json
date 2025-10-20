@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_08-09.txt",
+  "name": "main_08-09",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 主线08-09关卡内剧情\n[PopupDialog(dialogHead=\"$avatar_shield\")] あれは？　ウルサス軍じゃない……今度は何を企んでいる？\n[PopupDialog(dialogHead=\"$avatar_rosmon\")]メフィストっていう感染者が彼らを操るのを見るのは、初めて？\n[PopupDialog(dialogHead=\"$avatar_shield\")] なに！？\n[PopupDialog(dialogHead=\"$avatar_shield\")] メフィストは感染者の治療者だったはずだ！\n[PopupDialog(dialogHead=\"$avatar_rosmon\")]知らないけど……でも、あの感染者たちは報告と違う。追い立てられてここまで来たのかも。行動に規則性が見られない。\n[PopupDialog(dialogHead=\"$avatar_rosmon\")]ただ、数が……\n[PopupDialog(dialogHead=\"$avatar_shield\")] 関係ない！　バケモノにはこの陣を突破させたりしない！　ウルサスに付け入る隙を与えるな！\n[PopupDialog(dialogHead=\"$avatar_rosmon\")]数が多すぎるよ……！\n[PopupDialog(dialogHead=\"$avatar_shield\")] 「我らは犠牲など恐れない！！」\n[PopupDialog(dialogHead=\"$avatar_rosmon\")]……どうしたらいいの？　私なら……前線にいるこの盾兵たちの役に立てるかも。私ならきっと全員守れる……\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

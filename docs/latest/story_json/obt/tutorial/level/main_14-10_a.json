@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_14-10_a.txt",
+  "name": "main_14-10_a",
+  "text": "[header(actId=\"main14\")]\n[executeactionarray(target=\"char_4133_logos\", key=\"stop_sp_recovery\")]\n[camerafocusto(offsetX=\"5.5\", offsetY=\"3\", time=\"2\", scale=\"CLOSE\")]\n[delay(time=\"2\")]\n[playanim(id=\"char_4133_logos\", anim=\"Attack_2\", dir=\"LEFT\")]\n[createeffect(id=\"char_4133_logos\", key=\"logos_attack_start_02_F\")]\n[delay(time=\"2\")]\n[name=\"ロゴス\", avatarId=\"char_4133_logos\", isAvatarRight=\"FALSE\"] 「ささやきは静まり、腐朽がそれ以上進むことは許さぬ。」\n[resetCamera(time=\"1.5\")]\n[executeactionarray(target=\"char_4133_logos\", key=\"recover_sp_recovery\")]\n[end]\n"
+}

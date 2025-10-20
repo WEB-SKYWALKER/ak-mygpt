@@ -1,0 +1,5 @@
+{
+  "path": "activities/multiv3/training/fortress/training_fortress_a1.txt",
+  "name": "training_fortress_a1",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 要塞教学a1\n[Battle.lockFunction(mask=\"PAUSE_BUTTON_INTERACT\")]\n[Battle.lockFunction(mask=\"CARD_LIST\")]\n[CooperateBattle.CameraFocusTo(offsetX=5, offsetY=4, scale=1.2, time=1.5)]\n[Battle.Delay(time=2.5)]\n[CooperateBattle.CameraFocusTo(offsetX=16, offsetY=4, scale=1.2, time=1.5)]\n[Battle.Delay(time=2.5)]\n[CooperateBattle.CameraFocusTo(offsetX=8, offsetY=4, scale=1, time=1.5)]\n[Battle.Delay(time=1)]\n[Battle.unlockFunction(mask=\"PAUSE_BUTTON_INTERACT\")]\n[Battle.unlockFunction(mask=\"CARD_LIST\")]\n"
+}

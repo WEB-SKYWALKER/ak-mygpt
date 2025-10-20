@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/battleavg/dialog_sandbox_0_sandsdr_market_1.txt",
+  "name": "dialog_sandbox_0_sandsdr_market_1",
+  "text": "[HEADER(actId=\"act1sandbox\", npcId=\"trap_433_sandsdr\")] \n[character(name=\"avg_npc_801_1\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"「サンドソルジャー」\"]友好の証として、この物資をお贈りいたします。我々の協力関係が……素晴らしいものになることを願って。\n[Decision(option1=\"「友好の証」を受け取る\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[AddItem(itemId=\"sandbox_0_supermeat\", itemCount=\"1\")]\n[SetConditionProgress(conditionKey=\"already_met_sandsdr\", itemCount=\"1\")]\n[withdraw(charId=\"trap_433_sandsdr\")]\n[End]\n"
+}

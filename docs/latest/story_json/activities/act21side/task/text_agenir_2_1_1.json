@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_agenir_2_1_1.txt",
+  "name": "text_agenir_2_1_1",
+  "text": "[dialog(head=\"npc_691_1\",delay=1,style=\"other\")]アグニル。\n[dialog(head=\"npc_692_3\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_691_1\",delay=1,style=\"other\")]またここで死んだふりをしてるのね。\n[dialog(head=\"npc_692_3\",delay=1,style=\"self\")]Zzzz......Zzzz......\n[dialog(head=\"npc_691_1\",delay=1,style=\"other\")]老後をここで過ごさせているのは、ここで起きることを傍観させるためじゃないのよ。\n[dialog(head=\"npc_691_1\",delay=1,style=\"other\")]今の結果が良かったとしても、簡単には許してあげないわ。\n[dialog(head=\"npc_692_3\",delay=1,style=\"self\")]Zzzz......\n[dialog(head=\"npc_691_1\",delay=1,style=\"other\")]アグニル。\n[dialog(head=\"npc_692_1\",delay=1,style=\"self\")]はぁ……朝からそんなに怒っていると身体に良くないぞ。\n[dialog(head=\"npc_691_1\",delay=1,style=\"other\")]ほら、答えて。誰の面倒を見させるためにあなたをここに送ったか、忘れてなんかないでしょうね。\n[OptionBranch(option0=\"option_Agenir_2_1_1_1\",option1=\"option_Agenir_2_1_1_2\",option2=\"option_Agenir_2_1_1_3\",delay=2)]\n"
+}

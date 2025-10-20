@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_rift_trsrhuntr.txt",
+  "name": "dialog_sandbox_1_rift_trsrhuntr",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"トレジャーハンター\", avatarId=\"bavg_npc_003\", isAvatarRight=\"FALSE\"]あれ、どうしてこんなところに？\n[decision(option1=\"君の友人たちが君を探している。\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[name=\"トレジャーハンター\", avatarId=\"bavg_npc_003\", isAvatarRight=\"FALSE\"]えっ？　ちょっと探検するだけのつもりで、遠出しすぎちゃってたかな。\n[name=\"トレジャーハンター\", avatarId=\"bavg_npc_003\", isAvatarRight=\"FALSE\"]それなら、君たちと一緒に帰ることにするよ。\n[decision(option1=\"この依頼は完了だ。\", value1=\"2.1\")]\n[predicate(references=\"2.1\")]\n[withdraw(id=\"trap_435_trsrhuntr\")]\n[save]\n[end]\n"
+}

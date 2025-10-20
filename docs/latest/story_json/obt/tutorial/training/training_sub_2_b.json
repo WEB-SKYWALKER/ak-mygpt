@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/training_sub_2_b.txt",
+  "name": "training_sub_2_b",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 训练关卡sub3b\n[Tutorial(focusX=240, focusY=-170, focusWidth=220, focusHeight=220, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n以前の訓練で用いた対応策はまだ覚えているか？敵の術師が側面から戦線を崩しに来た場合はどうする？\n[PopupDialog(dialogHead=\"$avatar_jesica\")] も、もちろん覚えてます！メランサさんに敵の足止めをしてもらいます！\n[PopupDialog(dialogHead=\"$avatar_doberm\")] よし。それと、メランサをサポートするために、医療オペレーターも必要だ。\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

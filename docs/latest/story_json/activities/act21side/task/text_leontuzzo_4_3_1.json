@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_leontuzzo_4_3_1.txt",
+  "name": "text_leontuzzo_4_3_1",
+  "text": "[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]オペラは何時開始なんだ？\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]三十分前に始まってます。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]それなら、遅すぎるということはないな。\n[narration(delay=1)]彼は劇場から飛び出していく一般客らを見やった。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]このまま諦めたくない人間からすれば。\n"
+}

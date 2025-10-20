@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_danbrown_6_1_1.txt",
+  "name": "text_danbrown_6_1_1",
+  "text": "[dialog(head=\"npc_686_1\",delay=1,style=\"other\")]戻ったか。\n[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]ただ新しいもんが口に合わなかっただけさ。\n[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]少なくとも今は、何か面白いことができそうだしな。\n[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]そんで、今回の仕事は？\n"
+}

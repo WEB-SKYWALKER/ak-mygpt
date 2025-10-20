@@ -1,0 +1,5 @@
+{
+  "path": "activities/act16d5/training/training_act16d5_01_b.txt",
+  "name": "training_act16d5_01_b",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动16d0教学关_b\n[Tutorial(focusX=-255, focusY=240, focusWidth=80, focusHeight=80, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_nian\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nこうやって<@tu.kw>【明の印】</>の上にビーグルを配置してやれば、<@tu.kw>【明】</>の属性を獲得する。\n[PopupDialog(dialogHead=\"$avatar_lava2\")] なんだ、アタシは夢でも見てるのか……？\n[PopupDialog(dialogHead=\"$avatar_nian\")] 物の見方は心の在り様で変わるもんだ。夢かどうかなんてのは重要じゃねぇ。私の言うことをよく覚えておくんだな。見ろよ。<@tu.kw>【同じ属性】</>の場合、ビーグルに対する敵の攻撃の<@tu.kw>【ダメージが減少】</>するんだ。\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_texas_5_1_1.txt",
+  "name": "text_texas_5_1_1",
+  "text": "[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]ソラ？\n[narration(delay=1)]返事はなく、代わりに闇の中からごそごそと物音がした。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]……ソラか！？\n[narration(delay=1)]彼女は鋭く一歩踏み出す――\n[dialog(head=\"npc_684_1\",delay=1,style=\"other\")]あれ、テキサスさん！どうかしましたか？\n[narration(delay=1)]道端にある小さな店の前、明かりの下でソラが歌を口ずさみながら、小ぎれいな箱をラッピングしていた。\n[dialog(head=\"npc_684_1\",delay=1,style=\"other\")]ん？手に持ってるのって……ラジオですか？\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]ああ。もう使わないし、捨てるとしよう。\n[dialog(head=\"npc_684_1\",delay=1,style=\"other\")]だったら、拠点にはまだないですし、持って帰るのはどうですか？クロワッサンなら気に入るかもしれませんよ。\n[OptionBranch(option0=\"option_Texas_5_1_1_1\",option1=\"option_Texas_5_1_1_2\",delay=1)]\n"
+}

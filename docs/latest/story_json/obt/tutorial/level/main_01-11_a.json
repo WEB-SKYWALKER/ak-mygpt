@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_01-11_a.txt",
+  "name": "main_01-11_a",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 主线01-11关卡内剧情a\n[name=\"\"]   時刻不明/天候不明/視認性 低\n[name=\"\"]   チェルノボーグ 行動予備隊A2、A4所在地\n[name=\"\"]   Dr.{@nickname}救出作戦 最終撤退段階\n[dialog]\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

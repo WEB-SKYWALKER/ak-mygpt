@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_14-09_a.txt",
+  "name": "main_14-09_a",
+  "text": "[header(actId=\"main14\")]\n[camerafocusto(offsetX=\"3\", offsetY=\"4\", time=\"1\", scale=\"MID\")]\n[delay(time=\"1\")]\n[name=\"ダグザ\", avatarId=\"char_157_dagda\", isAvatarRight=\"FALSE\"]シージ、サルカズが押し寄せてきたぞ！\n[resetCamera(times=\"1\")]\n[delay(time=\"1\")]\n[end]\n"
+}

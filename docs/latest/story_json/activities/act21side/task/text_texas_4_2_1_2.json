@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_texas_4_2_1_2.txt",
+  "name": "text_texas_4_2_1_2",
+  "text": "[narration(delay=1)]そこには誰もおらず、オペラの歌曲が流れるラジオが地面に置かれているだけだった。\n[narration(delay=1)]その歌声はみずみずしく、美しい。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]ラジオ……？どういうことだ？このオペラは……女性歌手か……\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]……ソラ？\n"
+}

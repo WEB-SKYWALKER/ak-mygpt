@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-17_c.txt",
+  "name": "main_15-17_c",
+  "text": "[header(is_skippable=false, is_autoable=false, is_tutorial=true)]主线15-17演出关story_c\n[battle.lockfunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[inputblocker(blockInput=true)]\n[battle.delay(time=2.2)]\n[battle.pause]\n[popupdialog(dialogHead=\"$avatar_asnipe\")]干渉が弱まった？　Sharpさん、私が援護します。\n[battle.ensuremincost(cost=12)]\n[inputblocker(blockInput=false)]\n[tutorial(animStyle=\"Drag\", protectTime=0.5, waitForSignal=\"put_down\", cardIndex=0, startCardIndex=0, endTileX=8, endTileY=2, charId=\"char_511_asnipe\", posX=8, posY=2)]\n[tutorial(animStyle=\"Drag\", waitForSignal=\"select_direction\", startTileX=8, startTileY=2, endTileX=10, endTileY=2)]\n[battle.unlockfunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[battle.pause(pause=false)]\n"
+}

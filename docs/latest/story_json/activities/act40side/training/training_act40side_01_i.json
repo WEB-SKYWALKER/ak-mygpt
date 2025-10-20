@@ -1,0 +1,5 @@
+{
+  "path": "activities/act40side/training/training_act40side_01_i.txt",
+  "name": "training_act40side_01_i",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动40side教学关_i\n[Battle.SwitchToDefaultUIState]\n[Battle.Delay(time=0.5)]\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[Tutorial(focusX=-307, focusY=198, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_nian\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] これでいいだろ。竈台を起動しろ！\n[Battle.Pause(pause=false)]\n"
+}

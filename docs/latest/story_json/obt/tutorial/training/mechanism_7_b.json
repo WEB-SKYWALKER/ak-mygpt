@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_7_b.txt",
+  "name": "mechanism_7_b",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 造成元素损伤b\n[Tutorial(focusX=-100, focusY=0, focusWidth=319, focusHeight=318, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_jesica\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n遊撃隊盾兵です！こちらの攻撃があまり効いていないようです……\n[PopupDialog(dialogHead=\"$avatar_stward\")] 持ちこたえるんだ。援軍がもうすぐ到着するから！\n"
+}

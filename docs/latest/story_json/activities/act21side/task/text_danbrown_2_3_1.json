@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_danbrown_2_3_1.txt",
+  "name": "text_danbrown_2_3_1",
+  "text": "[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]ははははっ、いいぞ、やれ！！\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]ちょっ、静かにしろって！\n[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]そうだ、そうでなくっちゃな！\n[narration(delay=1)]彼は椅子の上で満足そうにまぶたを閉じると、そのまま頭を後ろに預けて寝てしまった。\n"
+}

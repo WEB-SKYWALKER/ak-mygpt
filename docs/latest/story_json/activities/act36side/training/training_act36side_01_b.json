@@ -1,0 +1,5 @@
+{
+  "path": "activities/act36side/training/training_act36side_01_b.txt",
+  "name": "training_act36side_01_b",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动36side教学关_b\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[PopupDialog(dialogHead=\"$avatar_marcil\")]先ほどのって……\n[PopupDialog(dialogHead=\"$avatar_laios\")]思い出しただけでまた腹が減ってくるな……\n[Battle.Pause(pause=false)]\n[InputBlocker(blockInput=true, black=0)]\n[Delay(time=3)]\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[PopupDialog(dialogHead=\"$avatar_laios\")]センシ、次は何を食べようか？\n[Tutorial(dialogHead=\"$avatar_sensi\",dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")]わし自身、まずはここの魔物の調理法を学ばねばならんからな……\n[PopupDialog(dialogHead=\"$avatar_bigbo\")]では、オリジムシを野外で調理するところから始めよう！\n[PopupDialog(dialogHead=\"$avatar_marcil\")]……えっ？\n[Battle.Pause(pause=false)]\n"
+}

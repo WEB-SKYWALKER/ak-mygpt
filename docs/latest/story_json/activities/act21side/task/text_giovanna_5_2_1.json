@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_giovanna_5_2_1.txt",
+  "name": "text_giovanna_5_2_1",
+  "text": "[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]ふぅ……新都市でまともな家を見つけるのは結構骨が折れるわね。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]前みたいにマフィアの考え方頼りでことを進めようとするのは上手くいかなさそうだし……\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]なかなかよくやってるみたいね。\n[narration(delay=1)]ジョヴァンナがカーテンを開くと、窓越しの日差しが空気中に漂うほこりを照らし出した。\n[narration(delay=1)]雨期が明け、晴天が訪れたのだ。\n[narration(delay=1)]彼女が外を見ると、建物は太陽の下できらきらと輝いていて、ここに越してきたばかりの人たちは忙しく動き回っており、通りは慌ただしく行き交う人でいっぱいだった。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]それじゃ、このお話のタイトルは『シラクザーノ』にしましょうか。\n"
+}

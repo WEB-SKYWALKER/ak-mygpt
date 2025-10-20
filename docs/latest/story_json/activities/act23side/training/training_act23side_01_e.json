@@ -1,0 +1,5 @@
+{
+  "path": "activities/act23side/training/training_act23side_01_e.txt",
+  "name": "training_act23side_01_e",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动23side教学关_d\n[PopupDialog(dialogHead=\"$avatar_jesica\")] あっ！　敵が迂回して登ってきました！\n[Tutorial(focusX=0, focusY=200, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n慌てるな、<@tu.kw>「都市防衛柵」</>が一時的に敵の足を止めてくれる。これを利用して、速やかに敵を殲滅せよ。\n[PopupDialog(dialogHead=\"$avatar_jesica\")] わかりました教官、わ……わたし頑張ります。\n[PopupDialog(dialogHead=\"$avatar_kroos\")] 私も手伝うよぉ！\n"
+}

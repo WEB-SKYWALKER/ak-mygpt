@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/battleavg/dialog_sandbox_0_sandsdr_market_5.txt",
+  "name": "dialog_sandbox_0_sandsdr_market_5",
+  "text": "[HEADER(actId=\"act1sandbox\", npcId=\"trap_433_sandsdr\")] \n[character(name=\"avg_npc_801_1\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"「サンドソルジャー」\"]私の示す友情は金銭に換えられるものではありません。ゆえに、この贈り物に何かを返す必要もございません。あなた方が向けてくださる友情の価値がいかほどかは、時間が答えを示すでしょう。\n[Decision(option1=\"「友好の証」を受け取る\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[AddItem(itemId=\"sandbox_0_building_14\", itemCount=\"1\")]\n[SetConditionProgress(conditionKey=\"already_met_sandsdr\", itemCount=\"1\")]\n[withdraw(charId=\"trap_433_sandsdr\")]\n[End]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_11-17_b1.txt",
+  "name": "main_11-17_b1",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 主线11-17关卡内剧情\n[PopupDialog(dialogHead=\"$avatar_allady\")] これは何……蒸気……騎士？　これが私の運命なの……？\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_1_g.txt",
+  "name": "mechanism_1_g",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 敌方索敌教学g\n[PopupDialog(dialogHead=\"$avatar_kroos\")] あっ、支援小隊が到着したみたいだよぉ。\n[PopupDialog(dialogHead=\"$avatar_kroos\")] 次はドクターが指揮をしてみて～！\n[PopupDialog(dialogHead=\"$avatar_kroos\")] あとは任せたよぉ。\n"
+}

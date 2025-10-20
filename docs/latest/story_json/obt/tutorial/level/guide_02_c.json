@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_c.txt",
+  "name": "guide_02_c",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_c\n[PopupDialog(dialogHead=\"$avatar_doberm\", animStyle=\"NoWait\")] アーミヤ、こちらにも敵が来ている。\n[PopupDialog(dialogHead=\"$avatar_amiya\", animStyle=\"NoWait\")] あっ！ドーベルマン教官、来てくださったんですね！\n[Delay(time=4)]\n"
+}

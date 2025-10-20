@@ -1,0 +1,5 @@
+{
+  "path": "activities/act35side/training/training_act35side_01_a.txt",
+  "name": "training_act35side_01_a",
+  "text": "[HEADER(is_tutorial=true, is_skippable=true, is_autoable=false)] 活动35side教学关_01_a\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.2)]\n[Tutorial(tileX=2, tileY=2, focusWidth=100, focusHeight=100, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_popka\")]この半透明の<@tu.kw>結晶</>はとっても変だよ。ポプカルが見に行ってくるね！\n[InputBlocker(blockInput=true, black=0)]\n[Battle.Pause(pause=false)]\n[Delay(time=1)]\n[Battle.Pause(pause=true)]\n[InputBlocker(blockInput=true, black=0.2)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n急ぐな――\n"
+}

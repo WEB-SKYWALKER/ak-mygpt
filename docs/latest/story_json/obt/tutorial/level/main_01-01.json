@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_01-01.txt",
+  "name": "main_01-01",
+  "text": "[HEADER(is_skippable=false, is_autoable=false, is_tutorial=true)] 主线01-01关卡内剧情\n[Battle.LockFunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[InputBlocker(blockInput=false)]\n[PopupDialog(dialogHead=\"$avatar_amiya\", animStyle=\"NoWait\",     dialogX=\"$f_lower_dialog_pos_x\", dialogY=-200)] ドクター、気を付けてください。これまでよりも強い猟犬部隊のようです。まずは<@tu.kw>先鋒</>オペレーターで食い止めましょう。\n[Delay(time=3.5)]\n[Battle.unlockFunction(mask=\"SYSTEM_MENU_INTERACT\")]"
+}

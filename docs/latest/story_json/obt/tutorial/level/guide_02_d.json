@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_d.txt",
+  "name": "guide_02_d",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_d\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] でも……ドーベルマン教官も苦戦しているようです。\n[Tutorial(focusX=103, focusY=-32, focusWidth=160, focusHeight=167, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\")] \\\nレユニオンの重装兵は全身に防具をまとっています。通常の物理攻撃ではあまりダメージを与えることができません。\n"
+}

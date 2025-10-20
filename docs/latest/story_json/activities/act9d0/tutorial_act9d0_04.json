@@ -1,0 +1,5 @@
+{
+  "path": "activities/act9d0/tutorial_act9d0_04.txt",
+  "name": "tutorial_act9d0_04",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动04关卡内剧情\n[PopupDialog(dialogHead=\"$avatar_ines\")] 待って、敵よ。\n[PopupDialog(dialogHead=\"$avatar_hoederer\")] ああ、粗末な拠点の周囲に散らばっているな。こちらにはまだ気づいていないようだ。\n[PopupDialog(dialogHead=\"$avatar_ines\")] 一時駐留しているだけの<@tu.kw>待機状態</>みたい。この隙に先制攻撃を仕掛けましょう。\n[PopupDialog(dialogHead=\"$avatar_hoederer\")] 攻撃を受ければ、彼らはすぐに<@tu.kw>臨戦態勢</>になるだろう。この状態を隙とは呼べまい。\n[PopupDialog(dialogHead=\"$avatar_ines\")] それなら、あいつらを<@tu.kw>一人ずつ</>片付けていけばいいわ。もちろん、反撃される前にね。\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

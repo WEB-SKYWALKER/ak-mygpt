@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_14-09_e.txt",
+  "name": "main_14-09_e",
+  "text": "[header(actId=\"main14\")]\n[camerafocusto(offsetX=\"10\", offsetY=\"5\", time=\"1\", scale=\"MID\")]\n[delay(time=\"1\")]\n[name=\"シージ\", avatarId=\"char_112_siege\", isAvatarRight=\"FALSE\"]――！\n[camerafocusto(offsetX=\"10\", offsetY=\"4\", time=\"1\", scale=\"MID\")]\n[name=\"ホルン\", avatarId=\"char_4039_horn\", isAvatarRight=\"FALSE\"]ためらってる暇はありません！　ヴィーナさん！\n[name=\"ホルン\", avatarId=\"char_4039_horn\", isAvatarRight=\"FALSE\"]今が――\n[camerafocusto(offsetX=\"10\", offsetY=\"5\", time=\"1\", scale=\"MID\")]\n[name=\"シージ\", avatarId=\"char_112_siege\", isAvatarRight=\"FALSE\"]チャンスだ。\n[name=\"シージ\", avatarId=\"char_112_siege\", isAvatarRight=\"FALSE\"]唯一のチャンスだ！\n[resetCamera(times=\"1\")]\n[delay(time=\"1\")]\n[end]\n"
+}

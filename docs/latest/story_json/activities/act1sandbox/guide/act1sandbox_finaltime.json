@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/guide/act1sandbox_finaltime.txt",
+  "name": "act1sandbox_finaltime",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] 生存玩法引导-final time\n[Sandbox.EnsureDungeonStable]\n[PopupDialog(dialogHead=\"$avatar_trademan\")] ちょっとちょっと！　何日か見ないうちにどうしてこんなことになっちゃったの！？　これじゃもう狩りや採取をしてる場合じゃないよ！　まずは拠点の安全を確保しないと！\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act22side/training/training_act22side_02_b.txt",
+  "name": "training_act22side_02_b",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动22side教学关02_b\n[Tutorial(focusX=-45, focusY=45, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_melan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nふぅ、ようやく火が消えました。\n[Tutorial(focusX=-45, focusY=45, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n燃えている葦にオペレーターを配置すると徐々に炎が消えていく。\n"
+}

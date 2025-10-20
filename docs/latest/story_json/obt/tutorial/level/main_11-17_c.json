@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_11-17_c.txt",
+  "name": "main_11-17_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 主线11-17关卡内剧情\n[PopupDialog(dialogHead=\"$avatar_allady\")]私は……\n[PopupDialog(dialogHead=\"$avatar_allady\")]……そいつの攻撃に気を付けて！\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_06-15_b2.txt",
+  "name": "main_06-15_b2",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 主线06-15关卡内剧情a\n[PopupDialog(dialogHead=\"$avatar_huang\")] もう後先考えるのはやめた。たとえ全身の血を失っても……\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

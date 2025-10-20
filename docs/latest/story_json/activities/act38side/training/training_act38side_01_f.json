@@ -1,0 +1,5 @@
+{
+  "path": "activities/act38side/training/training_act38side_01_f.txt",
+  "name": "training_act38side_01_f",
+  "text": "[header(is_tutorial=true, is_skippable=false, is_autoable=false)]叙拉古狂欢教学f\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0)]\n[popupdialog(dialogHead=\"$avatar_kroos\", dialogY=\"$f_lower_dialog_pos_y\")]おっと、うっかり風船を割っちゃったぁ！\n[popupdialog(dialogHead=\"$avatar_cammou\", dialogY=\"$f_lower_dialog_pos_y\")]でも、<@tu.kw>風船を割る</>と<@tu.kw>花火の打ち上げ時間を延長</>できるみたいだよ。\n[popupdialog(dialogHead=\"$avatar_kroos\", dialogY=\"$f_lower_dialog_pos_y\")]つまり、風船を割り続ければ、花火もずっと打ち上がり続けるってことだねぇ！\n[popupdialog(dialogHead=\"$avatar_cammou\", dialogY=\"$f_lower_dialog_pos_y\")]カルネヴァーレは終わらないんだ！\n[popupdialog(dialogHead=\"$avatar_kroos\", dialogY=\"$f_lower_dialog_pos_y\")]それじゃあ～、誰が風船をたくさん割れるか勝負しよう～！　早い者勝ちだからねぇ～！\n[Battle.Pause(pause=false)]\n"
+}

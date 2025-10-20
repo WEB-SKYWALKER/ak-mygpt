@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_6_d.txt",
+  "name": "mechanism_6_d",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 遭受元素损伤d\n[Tutorial(focusX=200, focusY=141, focusWidth=319, focusHeight=318, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_beagle\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nうぅ、くらくらします……\n[PopupDialog(dialogHead=\"$avatar_spot\")] 慌てなくていい、俺とクルースが手伝おう。\n[PopupDialog(dialogHead=\"$avatar_sys\")] ビーグルは<@tu.kw>神経損傷</>を受け、即座に高い<@tu.kw>確定ダメージ</>を負い、また<@tu.kw>一時的にスタン状態</>になってしまいました。\n"
+}

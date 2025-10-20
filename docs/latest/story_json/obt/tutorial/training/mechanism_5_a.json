@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_5_a.txt",
+  "name": "mechanism_5_a",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 推拉力教学a\n[PopupDialog(dialogHead=\"$avatar_sys\")] 訓練が間もなく開始します……\n[PopupDialog(dialogHead=\"$avatar_sys\")] 押し引き力認知訓練、スタート！\n[PopupDialog(dialogHead=\"$avatar_sys\")] 訓練第一段階、<@tu.kw>重量ランク0</>\n[PopupDialog(dialogHead=\"$avatar_sqrrel\")] 重量ランク0？小官たちにしてみれば朝飯前です！\n[PopupDialog(dialogHead=\"$avatar_almond\")] 集中して、ここは真剣に対処しよう！\n"
+}

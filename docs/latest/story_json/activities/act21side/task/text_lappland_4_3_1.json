@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_lappland_4_3_1.txt",
+  "name": "text_lappland_4_3_1",
+  "text": "[dialog(head=\"npc_683_1\",delay=1,style=\"self\")]ああ、本当に面白いね。\n[dialog(head=\"npc_683_1\",delay=1,style=\"self\")]何もかも燃えちゃったのに、キミはまだそこにいるんだから。\n[narration(delay=1)]彼女は古い写真を一枚手にしていた。\n[OptionBranch(option0=\"option_Lappland_4_3_1_1\",option1=\"option_Lappland_4_3_1_2\",delay=2)]\n"
+}

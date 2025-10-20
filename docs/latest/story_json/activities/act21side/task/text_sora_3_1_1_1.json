@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_sora_3_1_1_1.txt",
+  "name": "text_sora_3_1_1_1",
+  "text": "[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]一番よく見えるいい席のチケットですからね。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"other\")]公演は明日か？\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]はい！\n"
+}

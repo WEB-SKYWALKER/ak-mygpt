@@ -1,0 +1,5 @@
+{
+  "path": "activities/act4fun/training/training_act4fun_01_b.txt",
+  "name": "training_act4fun_01_b",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 2023愚人节教学关1_b\n[InputBlocker(blockInput=true)]\n[Battle.Pause(pause=true)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_cammou\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nそこで新聞を読んでるサラリーマン。一見普通だけど、深堀りしたら面白いかもよ？ ひょっとしたら彼こそ「有名人」だったりして。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_ulika\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n有名人かは分かんないですけど、私が撮るべきイケメンであることなら分かります！\n"
+}

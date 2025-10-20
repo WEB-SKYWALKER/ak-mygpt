@@ -1,0 +1,5 @@
+{
+  "path": "activities/act36side/training/training_act36side_08.txt",
+  "name": "training_act36side_08",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动36side_08\n[Battle.lockFunction(mask=\"CARD_LIST\")]\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[PopupDialog(dialogHead=\"$avatar_cerber\")]うう、なんか身体が変な感じ……\n[PopupDialog(dialogHead=\"$avatar_cerber\")]あれも、これも食べたいよ～……\n[Battle.Pause(pause=false)]\n[InputBlocker(blockInput=true, black=0)]\n[Delay(time=9)]\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.1)]\n[PopupDialog(dialogHead=\"$avatar_cerber\")]うわー、おいら……\n[PopupDialog(dialogHead=\"$avatar_cerber\")]一口じゃ食べきれないけど、ぜーんぶ食べたい！\n[Battle.unlockFunction(mask=\"CARD_LIST\")]\n[Battle.Pause(pause=false)]\n"
+}

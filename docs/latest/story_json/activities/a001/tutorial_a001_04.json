@@ -1,0 +1,5 @@
+{
+  "path": "activities/a001/tutorial_a001_04.txt",
+  "name": "tutorial_a001_04",
+  "text": "[HEADER(is_skippable=true)] A001_04教学\n[PopupDialog(dialogHead=\"$avatar_sys\")] 洞窟中の一部の地面は腐食を受けており、配置したオペレーターの防具はその影響を受けてしまいます。十分注意してください。\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

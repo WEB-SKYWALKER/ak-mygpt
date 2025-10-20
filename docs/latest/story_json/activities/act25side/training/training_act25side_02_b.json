@@ -1,0 +1,5 @@
+{
+  "path": "activities/act25side/training/training_act25side_02_b.txt",
+  "name": "training_act25side_02_b",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动25side教学关02_b\n[PopupDialog(dialogHead=\"$avatar_elysm\")] やったね、効果抜群！\n[PopupDialog(dialogHead=\"$avatar_doberm\")] うまくいったな。このように、<@tu.kw>「惑星の破片」</>はレール上の<@tu.kw>敵</>に大きな<@tu.kw>物理ダメージ</>を与えて押し出してくれる。\n[PopupDialog(dialogHead=\"$avatar_doberm\")] だが同様に、<@tu.kw>「惑星の破片」</>はレール上の<@tu.kw>オペレーター</>にもダメージを与えてくるので注意するように。\n"
+}

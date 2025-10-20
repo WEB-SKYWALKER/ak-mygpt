@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_sora_3_2_1_1.txt",
+  "name": "text_sora_3_2_1_1",
+  "text": "[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]ジョヴァンナさん。あたし、最高の演技をしますから。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]あなたの作品の役者として……そして、あなたの友達として。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]……また会えますよね？\n"
+}

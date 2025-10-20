@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_14-20_d.txt",
+  "name": "main_14-20_d",
+  "text": "[header(actId=\"main14\")]\n[camerafocusto(offsetX=\"2\", offsetY=\"2\", time=\"2\", scale=\"CLOSE\")]\n[delay(time=\"2\")]\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]本当に――\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]あったかい炎ね。\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]アーミヤ……\n[resetCamera(times=\"2\")]\n[delay(time=\"2\")]\n[end]\n"
+}

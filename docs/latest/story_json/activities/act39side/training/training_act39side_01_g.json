@@ -1,0 +1,5 @@
+{
+  "path": "activities/act39side/training/training_act39side_01_g.txt",
+  "name": "training_act39side_01_g",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动39side教学关_g\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[PopupDialog(dialogHead=\"$avatar_firwhl\")]あちゃー、正面攻撃じゃ効かないね。\n[PopupDialog(dialogHead=\"$avatar_utage\")]だったら後ろからぶった切ってやろ～よ。\n[Battle.Pause(pause=false)]\n"
+}

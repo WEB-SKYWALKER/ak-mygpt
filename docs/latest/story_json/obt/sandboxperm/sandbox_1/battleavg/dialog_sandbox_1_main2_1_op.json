@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_main2_1_op.txt",
+  "name": "dialog_sandbox_1_main2_1_op",
+  "text": "[header(actId=\"sandbox_1\")]\n[summontrap(x=\"9\", y=\"4\", charId=\"trap_467_ttuye\", isChar=\"FALSE\", dir=\"RIGHT\")]\n[uioperation(target=\"main\", item=\"\", enable=\"False\")]\n[camerafocusto(id=\"trap_467_ttuye\", scale=\"CLOSE\", time=\"1\")]\n[name=\"トゥイエ\", avatarId=\"char_402_tuye\", isAvatarRight=\"FALSE\"]少し前に、岩石分布図を手に入れただろう。それを知った族長が、資源を分けた礼として鉄鉱分布図をくれたんだ。\n[name=\"トゥイエ\", avatarId=\"char_402_tuye\", isAvatarRight=\"FALSE\"]族長の話では、この近くに良質な鉄鉱資源がたくさんあるらしい。\n[decision(option1=\"まさしく求めていたものだな。\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[additem(itemId=\"sandbox_1_craft_3\", itemCount=\"1\")]\n（アルサランの鉄鉱分布図を手に入れたことで、鉄鉱石の採取が可能になった。）\n[name=\"トゥイエ\", avatarId=\"char_402_tuye\", isAvatarRight=\"FALSE\"]次はオアシスへ行ってみよう。噂によると、あの場所では「嘆き」の声がしょっちゅう聞こえて、行動に大きな支障をきたすとかいう話だ。全員、よく気を付けろよ。\n[withdraw(id=\"trap_467_ttuye\")]\n[delay(time=\"1\")]\n[resetcamera(time=\"1\")]\n[save]\n[end]\n"
+}

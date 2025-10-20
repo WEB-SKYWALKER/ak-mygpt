@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_cook_trademan.txt",
+  "name": "dialog_sandbox_1_cook_trademan",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"連絡員\", avatarId=\"trap_415_trademan\", isAvatarRight=\"FALSE\"]何だか最近悩んでるみたいだけど、もしかしてお困りごとでもあるのかな？\n[name=\"連絡員\", avatarId=\"trap_415_trademan\", isAvatarRight=\"FALSE\"]ちょっと僕に話してみてよ。絶対解決してあげるから！\n[decision(option1=\"大祭司が喜ぶ料理がわからないんだ。\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[name=\"連絡員\", avatarId=\"trap_415_trademan\", isAvatarRight=\"FALSE\"]あ～、確かに最近元気なさそうだよね、あのお爺さん……\n[decision(option1=\"何かいいアイデアはないか？\", value1=\"2.1\")]\n[predicate(references=\"2.1\")]\n[name=\"連絡員\", avatarId=\"trap_415_trademan\", isAvatarRight=\"FALSE\"]大祭司が長年ジャングルで暮らしてることを思うと、あんまり手を加え過ぎずに、素材の味を生かした料理のほうが好みに合うかもしれないね。\n[name=\"連絡員\", avatarId=\"trap_415_trademan\", isAvatarRight=\"FALSE\"]たとえば、<color=#d8d769>ガンセキガニの刺身</color>とか？\n[decision(option1=\"ありがとう、ぴんときた！\", value1=\"3.1\")]\n[predicate(references=\"3.1\")]\n[withdraw(id=\"trap_415_trademan\")]\n[save]\n[end]\n"
+}

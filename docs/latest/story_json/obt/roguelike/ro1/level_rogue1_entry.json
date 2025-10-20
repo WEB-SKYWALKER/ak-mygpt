@@ -1,0 +1,5 @@
+{
+  "path": "obt/roguelike/ro1/level_rogue1_entry.txt",
+  "name": "level_rogue1_entry",
+  "text": "[HEADER(key=\"title_test\", is_skippable=true, fit_mode=\"BLACK_MASK\")]\n[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]\n[stopmusic]\n[Dialog]\n[Background(image=\"24_RL_castlehall\",screenadapt=\"coverall\")]\n[Delay(time=1)]\n[PlayMusic(intro=\"$ponder_intro\", key=\"$ponder_loop\", volume=0.4)]\n[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]\n[delay(time=2)]\n林の中にそびえ立つ古城。\nその佇まいは程よく朽ちている。\nそこで劇団がテントを張る。\n芝居のための舞台を組み上げる。\n長年の運営で積み上げてきたものがここに顕れる。\nただ残念ながら、ある疑問にいまだ回答が得られていない。\n主演はどこだ？\n主役はどこだ？\n沈黙。そこにはただ沈黙しかなく、答えを差し出せる者はない。\n[dialog]\n[PlaySound(key=\"$d_gen_walk_n\")]\n[Character(name=\"avg_npc_293_1#6$1\",fadetime=1.5)]\n[delay(time=3.5)]\n――主演は誰の目にも明らかだ。\n――主役が自らを証明する必要などない。\nさあ、どうぞ舞台上へ。\n劇団の新星、劇団の緋き貴石。\n[Dialog]\n[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]\n[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]\n[delay(time=2)]\nすべては整った。\n舞台の幕はすでに上がったのだ。\n[Dialog]\n[Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]\n[stopmusic(fadetime=1)]\n[Character]\n[Image]\n"
+}

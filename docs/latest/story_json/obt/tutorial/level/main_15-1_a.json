@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-1_a.txt",
+  "name": "main_15-1_a",
+  "text": "[header(actId=\"main15\")]第15章演出关15-1 a\n[camerafocusto(time=\"2\", scale=\"CLOSE\", offsetX=2, offsetY=3)]\n[delay(time=2)]\n[name=\"テレシス\", avatarId=\"npc_1297_theresis\", isAvatarRight=false]源石の中の意志よ、虚無の内に隠れて私を注視するだけに飽き足らず、私の持つ尊い記憶を用いて攻撃を仕掛けようとするとは――\n[name=\"テレシス\", avatarId=\"npc_1297_theresis\", isAvatarRight=false]お前は何を恐れているのだ、創造主よ？\n[resetcamera(time=2)]\n[delay(time=2)]\n[end]\n"
+}

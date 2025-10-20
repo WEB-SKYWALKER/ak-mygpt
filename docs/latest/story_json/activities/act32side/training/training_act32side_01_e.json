@@ -1,0 +1,5 @@
+{
+  "path": "activities/act32side/training/training_act32side_01_e.txt",
+  "name": "training_act32side_01_e",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] \n[PopupDialog(dialogHead=\"$avatar_ela\")] 総員、手頃な<@tu.kw>バリケード</>を見つけて、戦闘配置について。\n[PopupDialog(dialogHead=\"$avatar_iana\")] 上側の状況を偵察してみたけど、敵は<@tu.kw>バリケード</>の近くに密集しているみたい。\n[PopupDialog(dialogHead=\"$avatar_fuze\")] クラスターチャージの出番だな。\n[PopupDialog(dialogHead=\"$avatar_iana\")] 気を付けて、下からも敵が来ているわ。\n[PopupDialog(dialogHead=\"$avatar_doc\")] 慌てるな、私がいる。\n"
+}

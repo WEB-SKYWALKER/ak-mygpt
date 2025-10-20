@@ -1,0 +1,5 @@
+{
+  "path": "activities/act35side/training/training_act35side_01_f.txt",
+  "name": "training_act35side_01_f",
+  "text": "[HEADER(is_tutorial=true, is_skippable=true, is_autoable=false)] 活动35side教学关_01_f\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.2)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n見ろ、すべて除去された！\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_popka\")] \\\nやったぁ！\n[InputBlocker(blockInput=true, black=0)]\n[Battle.Pause(pause=false)]\n[Delay(time=2)]\n[Battle.Pause(pause=true)]\n[InputBlocker(blockInput=true, black=0.2)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n集中しろ。敵が近づいてきているぞ！\n"
+}

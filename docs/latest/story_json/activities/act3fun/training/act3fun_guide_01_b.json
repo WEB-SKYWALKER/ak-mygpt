@@ -1,0 +1,5 @@
+{
+  "path": "activities/act3fun/training/act3fun_guide_01_b.txt",
+  "name": "act3fun_guide_01_b",
+  "text": "[HEADER(is_tutorial=true)] 愚人节教学流程B\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_peacok_fool\")] 最初のステージということで、慈悲深い私が貴様にアドバイスをしてやろう。そろそろ大物がやってくるから備えるがよいぞ。\n[PopupDialog(dialogHead=\"$avatar_peacok_fool\")] 一番目のボスは比類なきスピードとパワーを備えた「レールスレイヤー」である。\n[PopupDialog(dialogHead=\"$avatar_closure\")] 大層な名前だけど、たしかそれ、スピードを二倍……いや、三倍に調整したサルカズ突撃兵って言ってなかったっけ？\n[PopupDialog(dialogHead=\"$avatar_peacok_fool\")] ウォッホンっ……とにかく出現した<@tu.kw>ボス</>を<@tu.kw>撃破</>すれば、ステージクリアなのだ。\n[PopupDialog(dialogHead=\"$avatar_peacok_fool\")] だがグズグズするでないぞ。さもなくば奴が画面から飛び出して貴様を串刺しにするであろう。\n"
+}

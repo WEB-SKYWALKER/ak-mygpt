@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_giovanna_1_1_1.txt",
+  "name": "text_giovanna_1_1_1",
+  "text": "[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]ドン、今日のスケジュールは調整しておきました。ウォラックさんの確認も済んでます。\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]ただ、一つ直接ご確認いただきたいものが。薬関係なんですが……こちらが資料です。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]貸してちょうだい。\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act29side/training/training_act29side_02_c.txt",
+  "name": "training_act29side_02_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] act29side_02_c\n[Tutorial(focusX=-353, focusY=70, focusWidth=130, focusHeight=130, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_pianst\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nですがそれと同時にあちらで新たな音が<@tu.kw>誕生</>しているようです――あれを介して、<@tu.kw>調律器に攻撃</>できそうですよ。\n[PopupDialog(dialogHead=\"$avatar_hbisc2\")] 不思議ですね！\n[PopupDialog(dialogHead=\"$avatar_hbisc2\")] あっ、エネルギー吸収の現象が消えかけてますよ。\n"
+}

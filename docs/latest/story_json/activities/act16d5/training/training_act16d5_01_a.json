@@ -1,0 +1,5 @@
+{
+  "path": "activities/act16d5/training/training_act16d5_01_a.txt",
+  "name": "training_act16d5_01_a",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动16d0教学关_a\n[PopupDialog(dialogHead=\"$avatar_lava2\")] ん？　あれはメランサ！　なんでメランサがここに？　アイツ一人じゃあんなにたくさんの敵を止められないぞ！\n[Tutorial(focusX=240, focusY=100, focusWidth=250, focusHeight=250, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_nian\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n落ち着いて敵を見てみろ。<@tu.kw>黒と白</>の色が付いてるだろ？　あれは敵の<@tu.kw>【晦（カイ）】と【明（メイ）】</>属性を表してる。\n[PopupDialog(dialogHead=\"$avatar_lava2\")] ニェン！？　どうしてここに？\n[Tutorial(focusX=-255, focusY=230, focusWidth=80, focusHeight=80, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_nian\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nそれからあの地面をよく見てみろ。あれは<@tu.kw>【晦明の印】</>だ。オペレーターを<@tu.kw>【配置】</>すると、<@tu.kw>【地面と同じ】</>【晦】または【明】の属性を獲得できる。\n"
+}

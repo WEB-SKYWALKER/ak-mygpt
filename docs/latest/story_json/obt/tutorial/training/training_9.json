@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/training_9.txt",
+  "name": "training_9",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 训练关卡9\n[Tutorial(black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\")] \\\nジェシカ、今回の戦場の変わった点には気付いたか？\n[Tutorial(black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_jesica\")] \\\nはい。ドーベルマン教官……あれはなんですか？\n[Tutorial(black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\")] \\\n戦場の地形や周囲の建造物は多種多様だ。それらをうまく利用できれば効率よく戦うことが出来る。\n[Tutorial(focusX=1, focusY=64, focusWidth=128, focusHeight=133, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\")] \\\n今回の作戦では<@tu.kw>EMP発生装置</>が設置されている。あれを起動すれば周囲の敵にダメージを与え一定時間動きを止めることが可能だ。使いどころを見極めろ。\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

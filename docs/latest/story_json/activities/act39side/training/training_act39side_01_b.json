@@ -1,0 +1,5 @@
+{
+  "path": "activities/act39side/training/training_act39side_01_b.txt",
+  "name": "training_act39side_01_b",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动39side教学关_b\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[PopupDialog(dialogHead=\"$avatar_fang\")]塩海に飛び込んで無理やり向かってくる敵がいます！\n[PopupDialog(dialogHead=\"$avatar_doberm\")]塩海での歩行は困難を極める。ここで育った海賊でも、思うようには動けまい。\n[Battle.Pause(pause=false)]\n"
+}

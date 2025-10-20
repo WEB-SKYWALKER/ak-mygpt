@@ -1,0 +1,5 @@
+{
+  "path": "activities/act13side/training/training_act13side_01_c.txt",
+  "name": "training_act13side_01_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动13side教学关_c\n[Tutorial(focusX=0, focusY=-35, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_nearl\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nまた、オペレーターの配置を行えば、一定範囲の<@tu.kw>視野</>を確保してくれる。\n"
+}

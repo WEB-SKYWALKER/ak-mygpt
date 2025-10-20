@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_01_a.txt",
+  "name": "guide_01_a",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡1_a\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] ドクター、時間は緊迫していますが、ここを離れる前に基本的な感覚を取り戻しましょう。\n[Tutorial(focusX=520, focusY=-56, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\")] \\\n敵が<@tu.kw>この場所から現れます</>。\n[Tutorial(focusX=-520, focusY=-56, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\")] \\\nドクターに攻撃されるわけにはいきませんから、<@tu.kw>敵をこの場所に近づけないようにしてください</>。\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 敵が接近してきました、準備はいいですか？\n"
+}

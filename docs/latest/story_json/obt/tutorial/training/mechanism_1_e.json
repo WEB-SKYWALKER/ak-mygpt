@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_1_e.txt",
+  "name": "mechanism_1_e",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 敌方索敌教学e\n[PopupDialog(dialogHead=\"$avatar_myrrh\")] バブルさん、今度は矢が飛んできました……いたっ！\n[PopupDialog(dialogHead=\"$avatar_bubble\")] ずるい敵だぞ！あいつ、<@tu.kw>特殊な索敵メカニズム</>を持ってるみたい。ボクじゃ攻撃を引きつけられないぞ！\n"
+}

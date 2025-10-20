@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_leontuzzo_2_1_1.txt",
+  "name": "text_leontuzzo_2_1_1",
+  "text": "[narration(delay=1)]レオントゥッツォが書斎のドアを押し開けると、部下が彼の報告を待っていた。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]うまくいかなかった。\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]そうですか……しかし、それは奴がほかのファミリーにつくこともないという証明にもなりますよ。ですから、そこまで悪いことでもないかと。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]ディミトリを書斎に呼んでくれ。\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act17d7/act17d7_01b.txt",
+  "name": "act17d7_01b",
+  "text": "[HEADER(is_skippable=false, is_autoable=false, is_tutorial=true)] 大帝关卡内剧情b\n[PopupDialog(dialogHead=\"$avatar_mousek\", animStyle=\"NoWait\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nお主の腕前は認めよう\n[Delay(time=2)]\n[PopupDialog(dialogHead=\"$avatar_mousek\", animStyle=\"NoWait\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nワシの番じゃ決めてやろう\n[Delay(time=2)]\n"
+}

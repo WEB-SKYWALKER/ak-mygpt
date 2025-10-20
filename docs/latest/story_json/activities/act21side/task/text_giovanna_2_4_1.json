@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_giovanna_2_4_1.txt",
+  "name": "text_giovanna_2_4_1",
+  "text": "[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]ステファノファミリーの動き、お気付きですか？\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]……あの外食産業の半分を掌握している人たちのこと？\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]あの連中、クルビア軍の事業を請け負ったようですよ。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]そう。\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]それで奴らの懐には……もうこれくらい入ってるとか。\n[narration(delay=1)]ウォラックは手で数字を示した。\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]それほどでかい額じゃありませんが、話がまとまればあと十年、あるいはたった六、七年でうちの立場も危うくなってくるでしょうね。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]あの役人たちと話をつけてほしいってこと？\n[dialog(head=\"npc_695_1\",delay=1,style=\"other\")]俺が手配しますから。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]もういいわ、ウォラック。\n[dialog(head=\"npc_687_1\",delay=1,style=\"self\")]この辺りにしておきましょう。\n"
+}

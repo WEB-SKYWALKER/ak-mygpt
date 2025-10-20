@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-1_c.txt",
+  "name": "main_15-1_c",
+  "text": "[header(actId=\"main15\")]第15章演出关15-1 c\n[camerafocusto(time=\"2\", scale=\"CLOSE\", offsetX=2, offsetY=3)]\n[delay(time=2)]\n[name=\"テレシス\", avatarId=\"npc_1297_theresis\", isAvatarRight=false]全てを弄ぶ神よ、私が臆して退くのを見届けようと目論んでいるのか？\n[name=\"テレシス\", avatarId=\"npc_1297_theresis\", isAvatarRight=false]それとも私がお前の感性に屈すると信じているのか？\n[name=\"テレシス\", avatarId=\"npc_1297_theresis\", isAvatarRight=false]お前は私も、サルカズのことも理解しておらぬ。\n[name=\"テレシス\", avatarId=\"npc_1297_theresis\", isAvatarRight=false]この剣をよく見ておけ、「アスカロン」。\n[resetcamera(time=2)]\n[delay(time=2)]\n[end]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act29side/training/training_act29side_02_d.txt",
+  "name": "training_act29side_02_d",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] act29side_02_d\n[PopupDialog(dialogHead=\"$avatar_pianst\")] 無調音楽にも規則性はあるものです。\n[PopupDialog(dialogHead=\"$avatar_pianst\")] 対位法を用いて再現できるか試してみましょう……\n[Tutorial(anchor=\"BottomRight\", focusX=-64, focusY=59, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_pianst\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n成功しました。これで<@tu.kw>戦場の任意の位置に先ほどの現象を再現</>できます。それに向かって攻撃すれば、引き続き調律器を攻撃することができるでしょう。\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_level_20.txt",
+  "name": "dialog_sandbox_1_level_20",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")]\n警告：猛獣出没注意！\n[end]\n"
+}

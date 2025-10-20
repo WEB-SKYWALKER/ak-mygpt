@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_f.txt",
+  "name": "guide_02_f",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_f\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] よし！こうやって、適切なオペレーターを適切な位置に配置することも、重要な戦術の一つです。\n[PopupDialog(dialogHead=\"$avatar_amiya\")] …………\n[PopupDialog(dialogHead=\"$avatar_amiya\")] ドクター、気をつけてください。さらに厄介な敵が来たようです。\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_guide_trmedic2.txt",
+  "name": "dialog_sandbox_1_guide_trmedic2",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"ロドスオペレーター\", avatarId=\"char_506_rmedic\", isAvatarRight=\"FALSE\"]しばらく見ない間に、拠点の改造がどんどん進んでるね。\n[name=\"ロドスオペレーター\", avatarId=\"char_506_rmedic\", isAvatarRight=\"FALSE\"]はい、これ。遠くから持ち帰ってきた物資だよ。みんなの役に立てばいいんだけど。\n[decision(option1=\"ありがとう！\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[additem(itemId=\"sandbox_1_tactical_20\", itemCount=\"3\")]\n[name=\"ロドスオペレーター\", avatarId=\"char_506_rmedic\", isAvatarRight=\"FALSE\"]それじゃ、私は仕事に戻るね。\n[withdraw(id=\"trap_473_trmedic\")]\n[save]\n[end]\n"
+}

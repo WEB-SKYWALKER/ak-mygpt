@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/battleavg/dialog_sandbox_0_main_6_appear.txt",
+  "name": "dialog_sandbox_0_main_6_appear",
+  "text": "[HEADER(actId=\"act1sandbox\", npcId=\"trap_433_sandsdr\")] \n[character(name=\"char_empty_b\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"？？？\"]……塵ひとつ残さず消えてしまいなさい。\n[character(name=\"char_empty_b\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"\"]我々は「サンドソルジャー」のアドバイスに従い、首長の勢力を避けて開拓を続けてきた。\n[name=\"\"]それでも、首長の衛兵隊は我々を追ってきた。\n[name=\"\"]我々は武器を取り戦わざるを得なくなった。この争いが終われば、今まで通りの生活が戻ってきますようにとただ願いながら。\n[character(name=\"avg_npc_165\", offsetX=\"100\", offsetY=\"50\")]\n[name=\"バーゼル\"]見ろ！　誰か衛兵隊とやりあってるみたいだぞ……！？\n[name=\"バーゼル\"]うちの集落の奴じゃないな。あの連中とモメてる奴らがほかにもいたのか……？\n[name=\"バーゼル\"]遠すぎてよく見えないが……\n[End]\n"
+}

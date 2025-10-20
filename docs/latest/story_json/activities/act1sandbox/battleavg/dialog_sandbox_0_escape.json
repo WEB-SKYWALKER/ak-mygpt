@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/battleavg/dialog_sandbox_0_escape.txt",
+  "name": "dialog_sandbox_0_escape",
+  "text": "[HEADER(actId=\"act1sandbox\", npcId=\"\")] \n[character(name=\"char_empty_b\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"\"]このエリアには、越境通信の確立に使える脱出ポイントが存在します。\n[character(name=\"char_empty_b\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"\"]越境通信確立後は、どのタイミングで演算を終了しても、一部の食料や設備などを次の演算に持ち込むことができます。\n[End]\n"
+}

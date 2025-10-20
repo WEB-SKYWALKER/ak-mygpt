@@ -1,0 +1,5 @@
+{
+  "path": "activities/act25side/ref/ref_02_act25side.txt",
+  "name": "ref_02_act25side",
+  "text": "[HEADER(key=\"title_test\", is_skippable=true, fit_mode=\"BLACK_MASK\")] \n[Image(image=\"38_ex01\",screenadapt=\"coverall\", fadetime=0)]\n[Image(image=\"38_ex02\",screenadapt=\"coverall\", fadetime=0)]\n[Image(image=\"38_ex04\",screenadapt=\"coverall\", fadetime=0)]\n"
+}

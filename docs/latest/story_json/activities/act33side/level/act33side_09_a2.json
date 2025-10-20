@@ -1,0 +1,5 @@
+{
+  "path": "activities/act33side/level/act33side_09_a2.txt",
+  "name": "act33side_09_a2",
+  "text": "[header]\n[avatarId=\"\", isAvatarRight=\"FALSE\"]警告：PRTSシステム権限が操作されています……\n[avatarId=\"\", isAvatarRight=\"FALSE\"]内部シーケンス検索開始、管理者権限を検出しました。\n[avatarId=\"\", isAvatarRight=\"FALSE\"]全艦防御システムを停止しますか？　……確認完了。\n[avatarId=\"\", isAvatarRight=\"FALSE\"]最適ルートの計算が完了し、データがアップロードされました。セキュリティウィンドウのカウントダウン開始、PRTSシステムスタンバイ中……\n[delay(time=\"1\")]\n[resetcamera]\n[end]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-17_a.txt",
+  "name": "main_15-17_a",
+  "text": "[header(actId=\"main15\")]主线15-17演出关dialog_a\n[isAvatarRight=false]データ呼び出し完了、作戦人員を確定しました。PRTSシステム総合最適処理プロトコルをロード中――\n[delay(time=1)]\n[resetcamera]\n[end]\n"
+}

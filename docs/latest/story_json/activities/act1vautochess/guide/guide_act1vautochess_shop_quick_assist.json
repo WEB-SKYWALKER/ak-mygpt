@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1vautochess/guide/guide_act1vautochess_shop_quick_assist.txt",
+  "name": "guide_act1vautochess_shop_quick_assist",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] act1vautochess商品库快捷助战引导\n[Tutorial(waitForSignal=\"act1vautochess_shop_quick_assist_view_routed\")]\n[PopupDialog(dialogHead=\"$avatar_amiya\")]未所持の対象オペレーターがリストアップされています。戦友にサポートを申請することで不足している対象オペレーターを補充することができます。\n"
+}

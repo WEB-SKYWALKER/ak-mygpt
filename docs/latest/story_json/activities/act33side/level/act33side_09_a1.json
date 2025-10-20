@@ -1,0 +1,5 @@
+{
+  "path": "activities/act33side/level/act33side_09_a1.txt",
+  "name": "act33side_09_a1",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动33side教学关1_a1\n[delay(time=\"2\")]\n[Battle.Pause]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_mamiya\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nあれ、テレジアさん……何が起きたんですか？\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_tersia\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nアーミヤ、あとのことは私に任せなさい。\n"
+}

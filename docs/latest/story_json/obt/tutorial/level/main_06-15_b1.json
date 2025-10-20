@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_06-15_b1.txt",
+  "name": "main_06-15_b1",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 主线06-15关卡内剧情a\n[PopupDialog(dialogHead=\"$avatar_amiya\")] それでも……それでも！ 私はこの手を引かない！\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

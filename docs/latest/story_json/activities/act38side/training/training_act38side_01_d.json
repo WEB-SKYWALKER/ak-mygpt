@@ -1,0 +1,5 @@
+{
+  "path": "activities/act38side/training/training_act38side_01_d.txt",
+  "name": "training_act38side_01_d",
+  "text": "[header(is_tutorial=true, is_skippable=false, is_autoable=false)]叙拉古狂欢教学d\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0)]\n[popupdialog(dialogHead=\"$avatar_cammou\", dialogY=\"$f_lower_dialog_pos_y\")]なにこれ？　このキッチンカー、全然びくともしないんだけど！\n[popupdialog(dialogHead=\"$avatar_sunbr\", dialogY=\"$f_lower_dialog_pos_y\")]大丈夫！　まずはキッチンカーを足止めしよう。\n[popupdialog(dialogHead=\"$avatar_sunbr\", dialogY=\"$f_lower_dialog_pos_y\")]もうすぐ火がここまで来るから、花火が見られると思うよ！\n[Battle.Pause(pause=false)]\n"
+}

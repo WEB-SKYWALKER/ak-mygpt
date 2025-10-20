@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_e.txt",
+  "name": "guide_02_e",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_e\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] ドクター、ここは私に任せてください！\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 術師の私は、敵の防御を貫くアーツで攻撃できます。\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 重装ユニットを相手にするにはこれが一番です。\n[Battle.EnsureMinSp(charId=\"char_002_amiya\", sp=100)]\n"
+}

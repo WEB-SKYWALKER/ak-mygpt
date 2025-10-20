@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/training/training_act1sandbox_01_d.txt",
+  "name": "training_act1sandbox_01_d",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动act1sandbox教学关1_b\n[Battle.Pause]\n[InputBlocker(blockInput=true)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nほーらね、言ったとおりでしょ！　脅威は全部排除したわけだし、これで安心して狩りができるね！\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nちなみに、動物によって狩りの方法は変わってくるんだけど、君たちの実力ならすぐにコツをつかめると思うよ。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nじゃあ、僕は端っこで応援してるから！\n[PopupDialog(dialogHead=\"$avatar_rsnipe\")]……はいはい。後は任せとけよ。\n"
+}

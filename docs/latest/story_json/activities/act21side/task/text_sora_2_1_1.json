@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_sora_2_1_1.txt",
+  "name": "text_sora_2_1_1",
+  "text": "[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"other\")]ソラ、少し休め。もう何箇所も駆け回っているだろう。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"other\")]単なる衣装にそこまでする必要はない。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]これが普通の衣装だったら、あたしもここまでしませんよ。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]でも、あたしたちはもうあの監督がベッローネのドンであることを知っています。こうなれば、あたしの置かれた立場はもはや単なる役者ではないことは、あなたのほうがよく知ってるはずでしょう。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]普段は優しい叔父さんみたいな人ですけど……あの人があたしを利用してテキサスさんを縛らないとは言い切れませんから。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]そうさせないために、あたしはあの人にどんな隙だって見せられないんです。それが役者としてのあたしだろうと、そうでないあたしだろうと――\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"other\")]私も同行する。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]テキサスさんがそこまでの事態にはしたくないと思ってることはわかってます。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]でも、もしもの備えはきちんとしておかないと。\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]あたしが龍門から駆けつけてきたのは、あたしたちの大事な友達を……あなたを見つけるためであって――\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]みんなを危険に晒すことなんかじゃないですから。\n"
+}

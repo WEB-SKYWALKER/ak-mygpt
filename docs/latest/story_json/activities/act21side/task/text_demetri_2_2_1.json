@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_demetri_2_2_1.txt",
+  "name": "text_demetri_2_2_1",
+  "text": "[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]到着だ。\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]お前らは舞台を観に来た普通の観客や一般市民のふりをして、劇場の外で待機しろ。中のことには関わらなくていい。ただし、ジョヴァンナが劇場から出てきたら――\n[narration(delay=1)]ディミトリはあるジェスチャーをした。\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]ドンの命令を絶対に完遂しろ。\n"
+}

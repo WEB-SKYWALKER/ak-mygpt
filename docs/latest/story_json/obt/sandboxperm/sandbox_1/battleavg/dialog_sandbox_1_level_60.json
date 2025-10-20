@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_level_60.txt",
+  "name": "dialog_sandbox_1_level_60",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")]\n前方に関門あり、全力にて押すべし。\n[end]\n"
+}

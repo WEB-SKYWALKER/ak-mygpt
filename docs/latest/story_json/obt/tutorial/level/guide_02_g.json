@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_g.txt",
+  "name": "guide_02_g",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_g\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] あれは強力な武器を装備した敵ユニットです。恐ろしい破壊力で攻撃を仕掛けてきます。\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 強力な攻撃を受け止められる重装オペレーターも配置しましょう。\n"
+}

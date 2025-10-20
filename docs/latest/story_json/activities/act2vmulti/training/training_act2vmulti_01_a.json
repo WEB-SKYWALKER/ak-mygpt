@@ -1,0 +1,5 @@
+{
+  "path": "activities/act2vmulti/training/training_act2vmulti_01_a.txt",
+  "name": "training_act2vmulti_01_a",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 联机教学关1a\n[Battle.Pause]\n[InputBlocker(blockInput=true)]\n[PopupDialog(dialogHead=\"$avatar_amiya\")]ドクター、「協心競技」の競技フィールドへようこそ！\n[PopupDialog(dialogHead=\"$avatar_amiya\")]参加種目を問わず、「協心競技」に参加するには、<@tu.kw>一名の協力者</>が必要となります。今回は私が協力者になりますね！\n"
+}

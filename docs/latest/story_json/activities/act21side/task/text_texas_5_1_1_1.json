@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_texas_5_1_1_1.txt",
+  "name": "text_texas_5_1_1_1",
+  "text": "[dialog(head=\"npc_684_1\",delay=1,style=\"other\")]はい、どうぞ。あたしからのささやかなプレゼントです。再会を祝して、ちょっとしたサプライズをと思って。\n[Obtain(id=\"item_surprise\",delay=1.5)]\n[narration(delay=1)]テキサスはその小さな箱を大切そうに撫でていて、ふと申し訳なさを感じた。\n[narration(delay=1)]プレゼントを贈るべきなのは、本来自分のほうだ。\n[narration(delay=1)]友達に心配をかけ、この混乱に巻き込んでしまった張本人だというのに、それでも今、彼女が手にしているのは友人たちがくれた優しさだった。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]……すまない、ソラ。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_684_1\",delay=1,style=\"other\")]……わかってくれたらいいんですよ。\n[dialog(head=\"npc_684_1\",delay=2.5,style=\"other\")]なーんて、嘘ですけど！\n[dialog(head=\"npc_684_1\",delay=1,style=\"other\")]もー、そんな真剣に何言っちゃってるんですか！あたし、先に拠点に帰ってますからね！\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]ああ。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]ソラ！……気を付けて帰れよ。私もすぐに戻る。\n[dialog(head=\"npc_684_1\",delay=1,style=\"other\")]はーい！\n"
+}

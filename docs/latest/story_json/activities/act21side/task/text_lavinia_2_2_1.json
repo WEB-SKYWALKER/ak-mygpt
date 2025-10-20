@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_lavinia_2_2_1.txt",
+  "name": "text_lavinia_2_2_1",
+  "text": "[VoiceWithin(head=\"npc_4065_judge_1\",delay=1)]……事件に関わっていたのはベッローネの構成員ね。見覚えがあるわ。\n[VoiceWithin(head=\"npc_4065_judge_1\",delay=1)]この現状では、彼らも人手が必要なのかしら。\n[VoiceWithin(head=\"npc_4065_judge_1\",delay=1)]それか、彼が受刑するとファミリーの仕事に支障が出るとか……\n[VoiceWithin(head=\"npc_4065_judge_1\",delay=1)]あるいはこれまでのように、「今はその時ではない」のかも。\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]......\n[VoiceWithin(head=\"npc_4065_judge_1\",delay=1)]「お前はいつか、このシラクーザで真の公正を実現できるようになる」と、あの人は昔言ってくれたけど……\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]......\n[VoiceWithin(head=\"npc_4065_judge_1\",delay=1)]……いつまでこんなことを我慢しないといけないの……？\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]ありがとう。読み終わったからお返しするわ。悪いけど、資料室に戻しておいて。\n[dialog(head=\"npc_697_1\",delay=1,style=\"other\")]はい。\n[dialog(head=\"npc_697_1\",delay=1,style=\"other\")]えっと……再審要求はなさらないのですか？\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]今は……やめておくわ。\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act33side/training/training_act33side_01_d.txt",
+  "name": "training_act33side_01_d",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动33side教学关1_c\n[Battle.Pause]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_jesica\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nうわっ、これが教官のおっしゃるセーフティチェーンですか？\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nそうだ。カズデルは至る所が劣化した接続区画であり、セーフティチェーンがなければオペレーターはまともに戦えない。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nセーフティチェーンはこの地での戦闘環境を改善するために作られた特注品というわけだ。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n接続区画に配置されたオペレーターは、<@tu.kw>一定範囲内で最も配置順が後のオペレーター</>に向けてセーフティチェーンを<@tu.kw>一本</>伸ばす。それにより足場の安定性を保つことができるぞ。\n"
+}

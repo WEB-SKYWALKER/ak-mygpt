@@ -1,0 +1,5 @@
+{
+  "path": "obt/guide/sandbox_perm/sandbox_1/trig_guide_zone_unlock.txt",
+  "name": "trig_guide_zone_unlock",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] 区域锁\n[SandboxV2.EnsureDungeonQuest(questId=\"trig_guide_zone_unlock\")]\n[SandboxV2.EnsureDungeonStable]\n[Delay(time=0.5)]\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")]この清きオアシスの環境も、現状は非常に過酷なものだ。行動の際は慎重を期さなくては。\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")]しかし、以前はこれほどひどい状況ではなかったという話だ。何者かが我々を阻んでいるのだろうな。\n[SandboxV2.EnsureDungeonStable]\n"
+}

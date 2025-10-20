@@ -1,0 +1,5 @@
+{
+  "path": "obt/roguelike/ro1/tutorial_rogue1_b-7.txt",
+  "name": "tutorial_rogue1_b-7",
+  "text": "[HEADER(is_skippable=true,is_autoable=false)] rogue1_b-7关卡内剧情\n[PopupDialog(dialogHead=\"$avatar_cshost\")] 時計が周り、赤い月が上りました。\n[PopupDialog(dialogHead=\"$avatar_cshost\")] 操り人形が今、舞い踊っております。\n[PopupDialog(dialogHead=\"$avatar_cshost\")] 至高無上の芸術のため。\n[PopupDialog(dialogHead=\"$avatar_cshost\")] 行きなさい、私の最高傑作！　さぁ、行くのです！　観衆たちに、素晴らしいショーを捧げなさい！\n[PopupDialog(dialogHead=\"$avatar_cshost\")] この私、劇団の忠実なる喉舌が、ここに宣言いたします──\n[PopupDialog(dialogHead=\"$avatar_cshost\")] いざ、ショーの始まりです！\n[Blocker(fadetime=0.3, block=true, a=0)] \n"
+}

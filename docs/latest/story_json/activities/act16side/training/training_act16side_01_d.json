@@ -1,0 +1,5 @@
+{
+  "path": "activities/act16side/training/training_act16side_01_d.txt",
+  "name": "training_act16side_01_d",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动16side教学关_d\n[Tutorial(focusX=-105, focusY=235, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_adnach\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n<@tu.kw>「ジェラート供給所」</>は撃破後、一定時間を経て正常稼働に戻ります。\n[PopupDialog(dialogHead=\"$avatar_swllow\")] だけど<@tu.kw>「ジェラート供給所」</>の色が変じゃない？\n[PopupDialog(dialogHead=\"$avatar_adnach\")] そうです、敵に撃破されると、<@tu.kw>「ジェラート供給所」</>は敵のSPを回復するようになってしまうんです！\n[PopupDialog(dialogHead=\"$avatar_swllow\")] 敵がSP回復の効果を受けると、すぐに弾薬を獲得してまたスキルを使ってくる。くっ、すぐに<@tu.kw>「ジェラート供給所」</>を取り戻さないと！\n[PopupDialog(dialogHead=\"$avatar_adnach\")] ご心配なく、援軍が来てくれました！\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_5_g.txt",
+  "name": "mechanism_5_g",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 推拉力教学g\n[PopupDialog(dialogHead=\"$avatar_rope\")] おお、うまくいった！\n[PopupDialog(dialogHead=\"$avatar_sys\")] 訓練第四段階、<@tu.kw>重量ランク3</>\n[PopupDialog(dialogHead=\"$avatar_panda\")] ハッ――間に合った！あとのデカい奴らは、あたしたちに任せな！\n"
+}

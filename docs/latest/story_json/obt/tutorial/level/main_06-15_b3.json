@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_06-15_b3.txt",
+  "name": "main_06-15_b3",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 主线06-15关卡内剧情a\n[PopupDialog(dialogHead=\"$avatar_swllow\")]  行かせない！\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

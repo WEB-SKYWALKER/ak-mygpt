@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-17_b.txt",
+  "name": "main_15-17_b",
+  "text": "[header(is_skippable=false, is_autoable=false, is_tutorial=true)]主线15-17演出关story_b\n[battle.lockfunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[inputblocker(blockInput=true)]\n[battle.delay(time=2.2)]\n[battle.pause]\n[popupdialog(dialogHead=\"$avatar_aguard\")]通信が回復した。命令をくれ。\n[battle.ensuremincost(cost=17)]\n[inputblocker(blockInput=false)]\n[tutorial(animStyle=\"Drag\", protectTime=0.5, waitForSignal=\"put_down\", cardIndex=0, startCardIndex=0, endTileX=6, endTileY=1, charId=\"char_508_aguard\", posX=6, posY=1)]\n[tutorial(animStyle=\"Drag\", waitForSignal=\"select_direction\", startTileX=6, startTileY=1, endTileX=8, endTileY=1)]\n[battle.unlockfunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[battle.pause(pause=false)]\n"
+}

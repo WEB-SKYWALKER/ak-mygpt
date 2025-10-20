@@ -1,0 +1,5 @@
+{
+  "path": "activities/act38side/training/training_act38side_01_b.txt",
+  "name": "training_act38side_01_b",
+  "text": "[header(is_tutorial=true, is_skippable=false, is_autoable=false)]叙拉古狂欢教学b\n[Battle.Pause]\n[Tutorial(focusX=-117, focusY=-78, focusWidth=180, focusHeight=180, anchor=\"Center\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          dialogHead=\"$avatar_kroos\")]\\\nあ～！　人が上を通っちゃったから、<@tu.kw>導火線の火が消えそう</>だよぉ！\n[popupdialog(dialogHead=\"$avatar_kroos\")]どうしよぉ、人ごみに紛れて、敵が全員<@tu.kw>ステルス状態</>になってるみたい～。\n[popupdialog(dialogHead=\"$avatar_kroos\")]これじゃ、誰が導火線を踏んでるのかわからないよ～！\n[Battle.Pause(pause=false)]\n[InputBlocker(blockInput=true, black=0)]\n[Delay(time=4.5)]\n[Battle.Pause]\n[popupdialog(dialogHead=\"$avatar_texas\", dialogY=\"$f_lower_dialog_pos_y\")]私に任せろ。\n[Battle.Pause(pause=false)]\n"
+}

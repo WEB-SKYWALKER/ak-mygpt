@@ -1,0 +1,5 @@
+{
+  "path": "activities/act22side/training/training_act22side_01_d.txt",
+  "name": "training_act22side_01_d",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动22side教学关_d\n[Tutorial(focusX=-240, focusY=145, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_kroos\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nこの敵、なんかおかしいよぉ……\n[Tutorial(focusX=-240, focusY=145, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n情報では、ヤツらは何らかのアーツによって操られている死者だ。気をつけて対処するんだ。\n"
+}

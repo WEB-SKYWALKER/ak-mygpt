@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_texas_2_2_1.txt",
+  "name": "text_texas_2_2_1",
+  "text": "[dialog(head=\"npc_177\",delay=1,style=\"other\")]先ほどうちの子を助けてくださった方ではありませんか！またお会いできて嬉しいです！\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]……何かいいことでもあったのか？\n[dialog(head=\"npc_177\",delay=1,style=\"other\")]ははっ、そうなんです。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_177\",delay=1,style=\"other\")]騒ぎを起こしたマフィアたちがどこの連中か、あの裁判官さんは知っていたそうで……奴らのファミリーに今回の損害を賠償させると言ってくださいまして。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]……賠償を？\n[dialog(head=\"npc_177\",delay=1,style=\"other\")]不思議に思いますよね？確かに、力のあるファミリーの連中を前にすると、裁判官に大したことはできないというのが常ですが……\n[dialog(head=\"npc_177\",delay=1,style=\"other\")]あの裁判官さんは違うんです。彼女は本当に私たちの力になってくれるんですよ。それに、あの人にはベッローネがついているので、ほかのファミリーも手出しできませんし。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_177\",delay=1,style=\"other\")]あの方がいてくださるのは、我々からすれば本当にありがたいことです。\n[narration(delay=1)]テキサスは気が滅入るのを感じた。それは慣れ親しんだものであり、どこから来るものかも彼女にはわかっている。\n[narration(delay=1)]彼女は一瞬、あの善良な裁判官を心配したのだが――\n[narration(delay=1)]それは無用の心配であるとすぐさま証明されたからだ。\n"
+}

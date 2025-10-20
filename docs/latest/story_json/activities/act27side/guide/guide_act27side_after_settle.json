@@ -1,0 +1,5 @@
+{
+  "path": "activities/act27side/guide/guide_act27side_after_settle.txt",
+  "name": "guide_act27side_after_settle",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] 商店街完成经营\n[PopupDialog(dialogHead=\"$avatar_npc_1005\")] ふぅ……今日の販売はすべて終わりました。さ、さすがはドクターさんですね、全体的に……とても順調でした！\n[PopupDialog(dialogHead=\"$avatar_npc_1005\")] ど、ドクターさん！　今日の営業は無事終了しました！　明日も頑張りましょう。たくさん稼いで、商店街を盛り上げましょうね！\n"
+}

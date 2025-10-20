@@ -1,0 +1,5 @@
+{
+  "path": "activities/act26side/training/training_act26side_01_c.txt",
+  "name": "training_act26side_01_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 拉特兰圣像栈道教学_c\n[Tutorial(focusX=-40, focusY=196, focusWidth=250, focusHeight=196, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nですが<@tu.kw>聖像</>が近くにあれば、住民のみなさんは安心することができます。そう簡単には怯えなくなるでしょう。\n"
+}

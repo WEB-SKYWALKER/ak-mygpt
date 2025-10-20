@@ -1,0 +1,5 @@
+{
+  "path": "activities/act35side/training/training_act35side_01_c.txt",
+  "name": "training_act35side_01_c",
+  "text": "[HEADER(is_tutorial=true, is_skippable=true, is_autoable=false)] 活动35side教学关_01_c\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.2)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_popka\")] \\\nならこの結晶を<@tu.kw>壊す</>方法はあるのかな？　<@tu.kw>攻撃が効いてない</>気がするよ。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n通常の攻撃ではこのような<@tu.kw>硬い</>結晶を壊すことはできず、<@tu.kw>わずかなダメージ</>しか与えることができない。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_popka\")] \\\nならどうしたらいいの？\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n個人的な経験からして、<@tu.kw>10回攻撃</>すれば、結晶上の<@tu.kw>力場</>は<@tu.kw>弱まり</>、結晶を<@tu.kw>浄化し除去</>することができる。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nクルースに手伝わせよう。彼女の<@tu.kw>攻撃速度</>は速いからな！\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_kroos\")] \\\nこーこーだーよ～\n"
+}

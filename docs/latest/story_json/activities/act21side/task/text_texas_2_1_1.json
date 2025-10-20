@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_texas_2_1_1.txt",
+  "name": "text_texas_2_1_1",
+  "text": "[VoiceWithin(head=\"npc_1028_texas2_1\",delay=1)]店主に食事代も渡したことだし、ぶらついてみるか。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]あれは何だ？\n[narration(delay=1)]綺麗に印刷されたポスターが壁に貼られており、そこには「テキサスの死」という文字が大きく書かれていた。\n[narration(delay=1)]テキサスは壁のそばに立ってそれを見上げる。\n[narration(delay=1)]シラクーザに戻ってから初めての笑いが込み上げてきた。\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]ふっ。\n[Obtain(id=\"item_poster\",delay=1.5)]\n"
+}

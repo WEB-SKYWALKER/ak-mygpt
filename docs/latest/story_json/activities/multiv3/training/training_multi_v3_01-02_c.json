@@ -1,0 +1,5 @@
+{
+  "path": "activities/multiv3/training/training_multi_v3_01-02_c.txt",
+  "name": "training_multi_v3_01-02_c",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 联机教学关1a\n[Battle.Pause]\n[InputBlocker(blockInput=true)]\n[PopupDialog(dialogHead=\"$avatar_amiya\")]さすがドクター！ では、残りのプレーはドクターにお任せしますね。\n[PopupDialog(dialogHead=\"$avatar_amiya\")]陣地障壁の破壊や敵選手への攻撃、狙いを定めたシュートなど……様々な戦術を駆使して敵のゴールを奪いましょう！\n"
+}

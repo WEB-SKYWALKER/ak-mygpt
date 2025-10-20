@@ -1,0 +1,5 @@
+{
+  "path": "obt/main/main_11_zone_enter.txt",
+  "name": "main_11_zone_enter",
+  "text": "[HEADER(key=\"title_test\", is_skippable=true, fit_mode=\"BLACK_MASK\",is_video_only=true)] \n[stopmusic]\n[Background(image=\"bg_black\",screenadapt=\"coverall\")]\n[playMusic(intro=\"$empty\",key=\"$empty\")]\n[Video(res=\"video/main_11/main_11_enter.mp4\")]\n"
+}

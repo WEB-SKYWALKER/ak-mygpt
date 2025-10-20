@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_level_33.txt",
+  "name": "dialog_sandbox_1_level_33",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")]\n<color=#d8d769>アルサランの集会場</color>へようこそ。説明を聞いてみたい時は、ユーネクテスさんに話しかけてください。彼女なら全力でサポートしてくれるはずです。\nさらに、あなたの旅をサポートするべく、私たちは宿泊施設の提供も行っています。\n[decision(option1=\"ほかの場所を見に行ってみましょう。\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[end]\n"
+}

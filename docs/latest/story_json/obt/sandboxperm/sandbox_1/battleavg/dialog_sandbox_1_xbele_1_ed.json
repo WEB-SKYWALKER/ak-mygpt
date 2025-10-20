@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_xbele_1_ed.txt",
+  "name": "dialog_sandbox_1_xbele_1_ed",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"trap_469_tpasngr\")]\n[name=\"トゥイエ\", avatarId=\"char_402_tuye\", isAvatarRight=\"FALSE\"]今のは見間違いか？　あの巨像……じ、自分で逃げていったよな？\n[name=\"トゥイエ\", avatarId=\"char_402_tuye\", isAvatarRight=\"FALSE\"]……ちょっと頭が追い付かないんだが。\n[decision(option1=\"奇妙なことだが、確かに動いた。\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[name=\"トゥイエ\", avatarId=\"char_402_tuye\", isAvatarRight=\"FALSE\"]誰かがアーツで操っているとか？　ああやって盗んだわけか？\n[decision(option1=\"足跡をたどってみよう。\", value1=\"2.1\")]\n[predicate(references=\"2.1\")]\n[save]\n[end]\n"
+}

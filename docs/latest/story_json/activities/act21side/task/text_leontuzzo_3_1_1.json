@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_leontuzzo_3_1_1.txt",
+  "name": "text_leontuzzo_3_1_1",
+  "text": "[dialog(head=\"npc_690_1\",delay=1,style=\"other\")]リンゴでも食うか？\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_690_1\",delay=1,style=\"other\")]レオン、あいつは単なる頭の固い役人だぞ。新しい方法が通用しないなら、いつものやり方でやればいいだけだ。\n[dialog(head=\"npc_690_1\",delay=1,style=\"other\")]俺も付いていってやろうか？\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]お前はただこの機に乗じて身体を動かしたいだけだろう。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]……まあ、拒みはしないが。\n[narration(delay=1)]隣に立つディミトリが眉を上げた。\n[dialog(head=\"npc_690_1\",delay=1,style=\"other\")]へえ、いいのか？お前もばかげた自分の流儀を掲げ始めたもんだとばかり思ってたが。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]……俺は考えていたんだ。\n[dialog(head=\"npc_690_1\",delay=1,style=\"other\")]何を？\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]あいつは自分のことを、俺たちが考えるよりも価値があると思っているだけなんだろう。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]だが、俺も俺で、一番効率的な方法を見つけたいだけだ。\n[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]――行くぞ。\n"
+}

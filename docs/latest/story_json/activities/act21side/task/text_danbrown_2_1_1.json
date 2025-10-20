@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_danbrown_2_1_1.txt",
+  "name": "text_danbrown_2_1_1",
+  "text": "[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]マスター、瓶であと二本。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]……まだ飲むのか？今日は向こうに話し込んでる奴らがいるんだが……\n[narration(delay=1)]マスターは視界の端で隅のテーブルをちらりと見た。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]普段なら酔っぱらってちょっと騒いでも構やしないが、今日は早いとこ帰ったほうがいいんじゃないか？\n[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]あいつらのことか？\n[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]どうせケンカなんかしねえよ。\n[dialog(head=\"npc_693_1\",delay=1,style=\"self\")]ただ口喧嘩するだけで、そのうちどっちかがしっぽ巻いて逃げていくさ。\n"
+}

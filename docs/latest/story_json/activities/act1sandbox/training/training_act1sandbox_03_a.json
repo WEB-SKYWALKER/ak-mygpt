@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/training/training_act1sandbox_03_a.txt",
+  "name": "training_act1sandbox_03_a",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动act1sandbox教学关3_a\n[Battle.Pause]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n経験則から言わせてもらうと、紛争エリアは危険ではあるけど、本当に死ぬようなことはない。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n資源エリアとは違って、紛争エリアの敵はもっと攻撃的だけどね。だから、防衛ラインに入られないように、気を付けないといけないよ。\n"
+}

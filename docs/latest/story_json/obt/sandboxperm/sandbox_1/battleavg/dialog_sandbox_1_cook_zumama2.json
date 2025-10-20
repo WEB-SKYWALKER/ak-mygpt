@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_cook_zumama2.txt",
+  "name": "dialog_sandbox_1_cook_zumama2",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]（食材を切る音）（調理をする音）\n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]よし、できた！\n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]最後にこの粉をふりかければ、どんな料理でもじいやは満足してくれるだろう。\n[decision(option1=\"それはすごいな。\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[additem(itemId=\"sandbox_1_craft_17\", itemCount=\"1\")]\n[withdraw(id=\"trap_466_tzumama\", withoutAnim=\"FALSE\")]\n[save]\n[end]\n"
+}

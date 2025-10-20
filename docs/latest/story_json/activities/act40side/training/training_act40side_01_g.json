@@ -1,0 +1,5 @@
+{
+  "path": "activities/act40side/training/training_act40side_01_g.txt",
+  "name": "training_act40side_01_g",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动40side教学关_g\n[Battle.SwitchToDefaultUIState]\n[Battle.Delay(time=0.5)]\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[Tutorial(focusX=278, focusY=-119, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_dusk\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] これが貴方の言う「元に戻る」なの？　破棄された竈台の中の<@tu.kw>「飲露餐風」</>が現れそうじゃないの……\n[Battle.Pause(pause=false)]\n"
+}

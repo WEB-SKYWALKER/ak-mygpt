@@ -1,0 +1,5 @@
+{
+  "path": "activities/act22side/training/training_act22side_02_c.txt",
+  "name": "training_act22side_02_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 活动22side教学关02_c\n[Tutorial(focusX=145, focusY=200, focusWidth=140, focusHeight=140, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n葦が隣り合っていると、一定時間ごとに炎が<@tu.kw>四方に広がる</>。\n"
+}

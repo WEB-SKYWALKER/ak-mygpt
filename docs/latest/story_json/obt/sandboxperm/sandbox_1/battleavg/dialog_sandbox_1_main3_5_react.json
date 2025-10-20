@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_main3_5_react.txt",
+  "name": "dialog_sandbox_1_main3_5_react",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]首長が送り込んできた精鋭部隊が、全員拠点を目指しているという知らせを受けた。\n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]ここで首長唯一の切り札を打ち破ることさえできれば、この先は長きにわたる平和が訪れることだろう。\n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]我々が静養し、力を蓄え、より強くなるのには十分なほどに長い平和がな。\n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]ゆえにこれは、我々の今後を左右する一戦でもある。\n[decision(option1=\"軽率に動くのはやめておこう。\", value1=\"1.1\", option2=\"<color=#d8d769>わかった、すぐに戻る。</color>\", value2=\"1.2\")]\n[predicate(references=\"1.1\")]\n[end]\n[predicate(references=\"1.2\")]\n[withdraw(id=\"trap_466_tzumama\")]\n[save]\n[end]\n"
+}

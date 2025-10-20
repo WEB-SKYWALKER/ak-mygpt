@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_main2_4_react.txt",
+  "name": "dialog_sandbox_1_main2_4_react",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]エクルムイのオアシスでの行動が、どうやら首長の目を引いたようだ。\n[name=\"ユーネクテス\", avatarId=\"char_416_zumama\", isAvatarRight=\"FALSE\"]信頼できる情報筋から、首長軍がすぐにでも拠点に攻めてくるだろうと連絡があった。\n[decision(option1=\"軽率に動くのはやめておこう。\", value1=\"1.1\", option2=\"<color=#d8d769>わかった、すぐに戻る。</color>\", value2=\"1.2\")]\n[predicate(references=\"1.1\")]\n[end]\n[predicate(references=\"1.2\")]\n[withdraw(id=\"trap_466_tzumama\")]\n[save]\n[end]\n"
+}

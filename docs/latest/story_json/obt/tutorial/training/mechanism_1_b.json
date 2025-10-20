@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_1_b.txt",
+  "name": "mechanism_1_b",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 敌方索敌教学b\n[PopupDialog(dialogHead=\"$avatar_kroos\")] うわあ、この砲兵の攻撃、すっごく手強いな……\n[PopupDialog(dialogHead=\"$avatar_bubble\")] 応援に来たぞ、クルースお姉ちゃん！\n[PopupDialog(dialogHead=\"$avatar_bubble\")] ボクならこの砲弾を全部止められるから！\n[PopupDialog(dialogHead=\"$avatar_bubble\")] ジュナー教官が教えてくれたんだ、敵は<@tu.kw>最後に配置</>したオペレーターを優先的に攻撃するって！\n[PopupDialog(dialogHead=\"$avatar_bubble\")] ほら、この盾で全部受け止めてやったぞ。\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_texas_1_1_1.txt",
+  "name": "text_texas_1_1_1",
+  "text": "[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]逃げろ！あいつら戦い始めたぞ！――おいあんた、逃げないにしても道を塞ぐのはやめてくれ！\n[VoiceWithin(head=\"npc_1028_texas2_1\",delay=1)]……ここは少しも変わらないな。\n[narration(delay=1)]周囲の人々が慌てて逃げていく中、テキサスはなおもテーブルの前に座って、運ばれてきたばかりのピッツァを眺めていた。\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]あそこにいる奴も、後でまとめて始末しておけ。\n[dialog(head=\"npc_698_1\",delay=1,style=\"self\")]民間人を殺して面倒起こすのはやめろとか言ってなかったか？\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]死にたがりは別だ。\n[dialog(head=\"npc_698_1\",delay=3,style=\"self\")]なんだこいつ、すげえやりやがるぞ！？\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]チッ。だったら先に仕事を終わらせろ。その女は後回しだ！\n[dialog(head=\"npc_1028_texas2_1\",delay=1,style=\"self\")]......\n[VoiceWithin(head=\"npc_1028_texas2_1\",delay=1)]……ゆっくり食べてはいられないようだな。\n[VoiceWithin(head=\"npc_1028_texas2_1\",delay=1)]ん……カウンターのほうに人影があるな。店主の子供か。\n[VoiceWithin(head=\"npc_1028_texas2_1\",delay=1)]一緒に連れ出してやろう。\n[dialog(head=\"npc_698_1\",delay=2,style=\"self\")]あいつ、出て行ったぞ！追うか？\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]待て、やめておけ。さっきはよく見てなかったが、あの髪と目の色は……帰ったらきちんと調べておく必要がありそうだ。\n"
+}

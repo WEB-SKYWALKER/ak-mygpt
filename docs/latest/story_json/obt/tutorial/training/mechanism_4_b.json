@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_4_b.txt",
+  "name": "mechanism_4_b",
+  "text": "[HEADER(is_tutorial=true, is_autoable=false, is_skippable=true)] 异常状态与抗性b\n[Battle.LockFunction(mask=\"CHARACTER_MENU\")]\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_stward\")] この敵は行動パターンが掴みにくいから、テキサスさんだけじゃブロックしきれない。\n[PopupDialog(dialogHead=\"$avatar_stward\")] 僕たちで全力でやっつけないと。\n"
+}

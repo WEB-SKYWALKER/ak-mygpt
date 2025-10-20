@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_guide_trmedic3.txt",
+  "name": "dialog_sandbox_1_guide_trmedic3",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"ロドスオペレーター\", avatarId=\"char_506_rmedic\", isAvatarRight=\"FALSE\"]久しぶりに戻ってきてみたら、拠点が様変わりしてるなんて！\n[name=\"ロドスオペレーター\", avatarId=\"char_506_rmedic\", isAvatarRight=\"FALSE\"]はい、これ。みんなのために持ち帰ってきたプレゼントだよ！\n[decision(option1=\"ありがとう！\", value1=\"1.1\")]\n[predicate(references=\"1.1\")]\n[additem(itemId=\"sandbox_1_food_42\", itemCount=\"1\")]\n[name=\"ロドスオペレーター\", avatarId=\"char_506_rmedic\", isAvatarRight=\"FALSE\"]それじゃ、休憩してくるね！\n[withdraw(id=\"trap_473_trmedic\")]\n[save]\n[end]\n"
+}

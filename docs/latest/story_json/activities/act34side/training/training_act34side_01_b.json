@@ -1,0 +1,5 @@
+{
+  "path": "activities/act34side/training/training_act34side_01_b.txt",
+  "name": "training_act34side_01_b",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动34side教学关1_b\n[InputBlocker(blockInput=true)]\n[Delay(time=3)]  \n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_doberm\")] 戦場をよく観察しろ！　今のシーボーンが死亡した時、頭部の<@tu.kw>甲羅が急速に増殖</>し、シーボーンのいたマスが完全に占拠されていた。他のシーボーンも<@tu.kw>そこを通ることはない</>はずだ。\n[Tutorial(focusX=-50, focusY=90, focusWidth=140, focusHeight=140, anchor=\"Center\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] マスを占拠した<@tu.kw>増殖甲羅</>は、高台扱いの足場として利用できる。クルース、<@tu.kw>増殖甲羅の上で待機</>せよ。\n"
+}

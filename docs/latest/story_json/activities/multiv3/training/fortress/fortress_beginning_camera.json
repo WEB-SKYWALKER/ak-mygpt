@@ -1,0 +1,5 @@
+{
+  "path": "activities/multiv3/training/fortress/fortress_beginning_camera.txt",
+  "name": "fortress_beginning_camera",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 要塞镜头演出\n[Battle.lockFunction(mask=\"PAUSE_BUTTON_INTERACT\")]\n[Battle.lockFunction(mask=\"CARD_LIST\")]\n[UIOperation(target=\"main\", enable=\"false\")]\n[InputBlocker(blockInput=true)]\n[Battle.Delay(time=2)]\n[CooperateBattle.CameraFocusTo(offsetX=4, offsetY=8, scale=1.2, time=2)]\n[Battle.elay(time=3)]\n[CooperateBattle.CameraFocusTo(offsetX=22, offsetY=8, scale=1.2, time=2)]\n[Battle.Delay(time=3)]\n[CooperateBattle.CameraFocusTo(offsetX=8, offsetY=8, scale=1, time=2)]\n[Battle.Delay(time=3)]\n[Battle.unlockFunction(mask=\"PAUSE_BUTTON_INTERACT\")]\n[Battle.unlockFunction(mask=\"CARD_LIST\")]\n[UIOperation(target=\"main\", enable=\"true\")]\n"
+}

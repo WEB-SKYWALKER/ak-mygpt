@@ -1,0 +1,5 @@
+{
+  "path": "activities/act33side/training/training_act33side_01_c.txt",
+  "name": "training_act33side_01_c",
+  "text": "[HEADER(is_tutorial=true, is_skippable=true)] 活动33side教学关1_b2\n[Battle.LockFunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[Battle.Pause]\n[InputBlocker(blockInput=false)]\n[Tutorial(protectTime=0.5,waitForSignal=\"put_down\", dialogHead=\"$avatar_doberm\", animStyle=\"Drag\", \\\n          startX=-80, startY=100, startAnchor=\"BottomRight\", endX=211, endY=-123)] \\\nジェシカ、クルースがすでに配置についた。これでお前も指定の位置に立つことができるだろう。\n[Tutorial(waitForSignal=\"select_direction\", dialogHead=\"$avatar_doberm\", animStyle=\"Drag\", \\\n          startX=230, startY=-103, endX=120, endY=-103)] \\\n左方向に構え、敵の迎撃体制をとれ。\n[Battle.UnlockFunction(mask=\"SYSTEM_MENU_INTERACT\")]\n"
+}

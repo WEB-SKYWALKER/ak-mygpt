@@ -1,0 +1,5 @@
+{
+  "path": "obt/guide/sandbox_perm/sandbox_1/trig_guide_got_craft_16.txt",
+  "name": "trig_guide_got_craft_16",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] 区域锁\n[SandboxV2.EnsureDungeonQuest(questId=\"trig_guide_got_craft_16\")]\n[SandboxV2.EnsureDungeonStable]\n[Delay(time=0.5)]\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")]妙な音が消えた……？　なぜだ？\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")]まさかこの円盤の片割れが、何か関係しているのか？　これは一体何なんだ？\n[SandboxV2.EnsureDungeonStable]\n"
+}

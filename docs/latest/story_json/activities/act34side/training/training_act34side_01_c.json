@@ -1,0 +1,5 @@
+{
+  "path": "activities/act34side/training/training_act34side_01_c.txt",
+  "name": "training_act34side_01_c",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动34side教学关1_c\n[Battle.Pause]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_stward\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] 再度、怪物が大量に出現しました！\n[Tutorial(focusX=50, focusY=30, focusWidth=160, focusHeight=150, anchor=\"Center\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n持参した<@tu.kw>航路ビーコン</>を利用しろ！\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] 航路ビーコンの<@tu.kw>周囲の高台</>に配置したオペレーターは、ビーコンのエネルギーをチャージすることができる。周囲の高台にいる味方が多いほど、チャージ速度も増すぞ。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_kroos\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] でも、ビーコンの近くに高台なんてないよぉ～……\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act38side/level/act38side_10_w.txt",
+  "name": "act38side_10_w",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] boss关我方胜利\n[Battle.Pause]\n[popupdialog(dialogHead=\"$avatar_whitw2\", dialogY=\"$f_lower_dialog_pos_y\")]お見事！　それじゃあ<@tu.kw>ダメージ軽減シールドを外して</>あげよう。ただし、少しの間だけだよ。ほら、チャンスを逃さないで！\n[Battle.Pause(pause=false)]\n"
+}

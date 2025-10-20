@@ -1,0 +1,5 @@
+{
+  "path": "activities/act33side/level/act33side_10_a.txt",
+  "name": "act33side_10_a",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动33side\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_doctor\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\",animStyle=\"NoWait\")] \\\n記憶が……消えていく……\n[Delay(time=3)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_tersia\",animStyle=\"NoWait\")] \\\n過去のすべてを断ち切って、本当のあなた自身を見つけて、ドクター。\n[Delay(time=3)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_tersia\",animStyle=\"NoWait\")] \\\nアーミヤ……\n[Delay(time=3)]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_tersia\",animStyle=\"NoWait\")] \\\nやっぱり、アーミヤはあなたの心の中でこんなにも大きな存在で、最後まで守り抜きたい記憶なのね……\n[Delay(time=3)]\n"
+}

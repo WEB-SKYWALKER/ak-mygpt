@@ -1,0 +1,5 @@
+{
+  "path": "activities/multiv3/training/fortress/training_fortress_a2.txt",
+  "name": "training_fortress_a2",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 要塞教学a2\n[Battle.lockFunction(mask=\"PAUSE_BUTTON_INTERACT\")]\n[Battle.lockFunction(mask=\"CARD_LIST\")]\n[Battle.Pause]\n[CooperateBattle.CameraFocusTo(offsetX=6, offsetY=4, scale=1, time=1)]\n[Delay(time=1)]\n[Tutorial(dialogHead=\"$avatar_melan\")]要塞ディフェンスの試合が始まりました。私の背後にある目標地点の防衛をお願いします……\n[CooperateBattle.CameraFocusTo(offsetX=8, offsetY=4, scale=1, time=1)]\n[Delay(time=1)]\n[Battle.unlockFunction(mask=\"PAUSE_BUTTON_INTERACT\")]\n[Battle.unlockFunction(mask=\"CARD_LIST\")]\n"
+}

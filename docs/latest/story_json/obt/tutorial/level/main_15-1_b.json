@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-1_b.txt",
+  "name": "main_15-1_b",
+  "text": "[header(actId=\"main15\")]第15章演出关15-1 b\n[camerafocusto(time=\"2\", scale=\"CLOSE\", offsetX=9, offsetY=3)]\n[delay(time=2)]\n[name=\"「アスカロン」\", avatarId=\"char_4132_ascln\", isAvatarRight=false]師匠、私はずっと師匠の前に再び立つことを望んでいた。\n[camerafocusto(time=\"3\", scale=\"CLOSE\", offsetX=2, offsetY=3)]\n[delay(time=3)]\n[name=\"テレシス\", avatarId=\"npc_1297_theresis\", isAvatarRight=false]残念なことに……お前は、彼女ではない。\n[resetcamera(time=2)]\n[delay(time=2)]\n[end]\n"
+}

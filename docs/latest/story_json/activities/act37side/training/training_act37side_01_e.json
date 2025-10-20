@@ -1,0 +1,5 @@
+{
+  "path": "activities/act37side/training/training_act37side_01_e.txt",
+  "name": "training_act37side_01_e",
+  "text": "[HEADER(is_skippable=false, is_autoable=false)] 活动37side教学关1_e\n[Tutorial(tileX=4, tileY=4, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_morgan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n<@tu.kw>軍事工場指令基地</>を起動して。そうすれば軌道を変更して、軌道貨車を軍事工場指令基地の方に移動させて守ることができるよ。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_morgan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n吾輩もちょこっと運動してこようかな！\n[Battle.EnsureMinCost(cost=45)]\n"
+}

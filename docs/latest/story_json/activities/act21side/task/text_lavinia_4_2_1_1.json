@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_lavinia_4_2_1_1.txt",
+  "name": "text_lavinia_4_2_1_1",
+  "text": "[narration(delay=1)]ラヴィニアは法典を受け取る。そこには一人の裁判官の血がついていた。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]君はまだ続けるつもりか？\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]ええ。\n[narration(delay=1)]ラヴィニアは、今日サルッツォの屋敷で起きたことを思い出していた。\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]まだ諦めるには早いもの。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]それはよかった。この言葉は本心だよ、ラヴィニア。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]俺にもいつかは、裁判官として戻る日が来るかもしれないな。\n"
+}

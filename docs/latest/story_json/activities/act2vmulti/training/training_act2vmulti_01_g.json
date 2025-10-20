@@ -1,0 +1,5 @@
+{
+  "path": "activities/act2vmulti/training/training_act2vmulti_01_g.txt",
+  "name": "training_act2vmulti_01_g",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动act1sandbox教学关1_b\n[Battle.Pause]\n[InputBlocker(blockInput=true)]\n[PopupDialog(dialogHead=\"$avatar_amiya\")]また今回、協力者とスムーズにコミュニケーションを取るために、二つのサポート機能が用意されています。\n[Tutorial(target=\"cost_handle_panel\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n右下の<@tu.kw>コスト支援要請</>をタップすると、最大15コストを協力者から提供してもらうことができます。\n[Tutorial(focusX=50, focusY=50, focusWidth=200, focusHeight=200, anchor=\"BottomLeft\",  \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=0.5, \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nまた、左下の<@tu.kw>戦術指示</>を<@tu.kw>長押し</>したまま、フィールド上に<@tu.kw>スワイプ</>すると、協力者に指示を送ることができます。\n[PopupDialog(dialogHead=\"$avatar_amiya\")]それでは、一緒に流れ者を五体倒し、チャレンジ目標達成を目指しましょう！\n"
+}

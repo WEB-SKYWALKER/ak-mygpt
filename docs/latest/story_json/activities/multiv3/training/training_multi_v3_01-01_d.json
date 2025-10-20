@@ -1,0 +1,5 @@
+{
+  "path": "activities/multiv3/training/training_multi_v3_01-01_d.txt",
+  "name": "training_multi_v3_01-01_d",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  联机教学关1d\n[Battle.Pause]\n[InputBlocker(blockInput=true)]\n[PopupDialog(dialogHead=\"$avatar_amiya\")]また今回、協力者とスムーズにコミュニケーションを取るために、二つのサポート機能が用意されています。\n[Tutorial(focusX=600, focusY=-150, focusWidth=250, focusHeight=250, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=0.5, \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n右下の<@tu.kw>コスト支援要請</>をタップすると、最大15コストを協力者から提供してもらうことができます。\n[Tutorial(target=\"btn_display_mark\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_amiya\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nまた、左下の<@tu.kw>戦術指示</>を<@tu.kw>長押し</>したまま、フィールド上に<@tu.kw>スワイプ</>すると、協力者に指示を送ることができます。\n"
+}

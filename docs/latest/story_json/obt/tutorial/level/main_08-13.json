@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_08-13.txt",
+  "name": "main_08-13",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 主线08-13关卡内剧情\n[PopupDialog(dialogHead=\"$avatar_blades\")] ボジョカスティ、彼女を庇って我々と敵対するつもりか？\n[PopupDialog(dialogHead=\"$avatar_patriot\")]来い。当代の近衛兵がどれほどのものか、見てやろう。\n[PopupDialog(dialogHead=\"$avatar_patriot\")]見せてみろ、どんなバケモノを切り貼りしたのか……見せてみろ、その身体には、どこの国の、どの領地が取り込まれているのか。\n[PopupDialog(dialogHead=\"$avatar_patriot\")]お前たち二人だけでは、私を殺すことはできない。\n[PopupDialog(dialogHead=\"$avatar_blades\")] ……ウェンディゴ！　我々はただ、この新たな蛇を……彼女の成長ぶりを見たいだけだ。\n[PopupDialog(dialogHead=\"$avatar_blades\")] あなたたち二人の命を奪うつもりはない。\n[PopupDialog(dialogHead=\"$avatar_blades\")] あなたなら、自分一人の命くらいは守れるだろう――\n[PopupDialog(dialogHead=\"$avatar_blades\")] しかし、もし我々が本気で彼女を殺すつもりだとしたら、あなたはどうやって我々の刃から彼女を守る？\n[PopupDialog(dialogHead=\"$avatar_patriot\")]来い。彼女ではなく、私を見ろ。\n[PopupDialog(dialogHead=\"$avatar_blades\")] ……シュー……\n[Blocker(fadetime=0.3, block=true, a=0)]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_market_tpriest2.txt",
+  "name": "dialog_sandbox_1_market_tpriest2",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"大祭司\", avatarId=\"bavg_npc_002\", isAvatarRight=\"FALSE\"]何じゃ、ジャングルフレーバーキャンディが欲しいのか？　<color=#d8d769>謎の混合物が2つ</color>必要じゃぞ！\n[decision(option1=\"ああ、キャンディをくれ！\", value1=\"1.1\", option2=\"いや、たまたま通りかかっただけだ！\", value2=\"1.2\")]\n[predicate(references=\"1.1\", selectableCondition=\"c0\")]\n[additem(itemId=\"sandbox_1_food_0\", itemCount=\"-2\")]\n[additem(itemId=\"sandbox_1_food_44\", itemCount=\"1\")]\n[name=\"大祭司\", avatarId=\"bavg_npc_002\", isAvatarRight=\"FALSE\"]では、今回はこの辺りにしておくか……\n[withdraw(id=\"trap_468_tpriest\", withoutAnim=\"FALSE\")]\n[save]\n[end]\n[predicate(references=\"1.2\")]\n[end]\n[condition(references=\"c0\", key=\"itemGE\", itemId=\"sandbox_1_food_0\", value=\"2\")]\n"
+}

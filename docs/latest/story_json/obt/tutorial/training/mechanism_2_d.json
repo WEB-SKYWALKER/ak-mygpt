@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_2_d.txt",
+  "name": "mechanism_2_d",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 我方索敌教学d\n[PopupDialog(dialogHead=\"$avatar_kroos\")] あの光ってる大きな盾、とっても目立つね～。なんだか強そうだし、先にやっつけちゃおうか。\n[PopupDialog(dialogHead=\"$avatar_sys\")] この敵は<@tu.kw>味方ユニットから狙われやすく</>くなっており、オペレーターはこの能力を持つ敵を優先的に攻撃します。\n"
+}

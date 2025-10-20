@@ -1,0 +1,5 @@
+{
+  "path": "obt/guide/sandbox_perm/sandbox_1/sandbox_1_training_3_dummy.txt",
+  "name": "sandbox_1_training_3_dummy",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] 防止连点\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")] フリーズしてしまう恐れがあります。ゲームを再起動して、チュートリアルをスキップしてください。"
+}

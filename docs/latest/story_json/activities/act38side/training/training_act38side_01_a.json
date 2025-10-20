@@ -1,0 +1,5 @@
+{
+  "path": "activities/act38side/training/training_act38side_01_a.txt",
+  "name": "training_act38side_01_a",
+  "text": "[header(is_tutorial=true, is_skippable=false, is_autoable=false)]叙拉古狂欢教学a\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0)]\n[popupdialog(dialogHead=\"$avatar_kroos\", dialogY=\"$f_lower_dialog_pos_y\")]\\\nカルネヴァーレが始まるよぉ。もうすぐ花火が見られるって～。\n[Tutorial(focusX=-145, focusY=-2, focusWidth=100, focusHeight=100, anchor=\"Center\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\",\\\n          dialogHead=\"$avatar_texas\", dialogY=\"$f_lower_dialog_pos_y\")]\\\nそうだな。導火線に火がついたのが見える。\n[Tutorial(focusX=223, focusY=167, focusWidth=100, focusHeight=100, anchor=\"Center\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=\"$f_tut_black\", \\\n          dialogHead=\"$avatar_texas\",dialogX=\"$f_lower_dialog_pos_x\",\\\n dialogY=\"$f_lower_dialog_pos_y\")]\\\nこの火が花火打上装置まで到達すると、花火が自動で打ち上げられ、<@tu.kw>狂宴の刻</>が始まるんだ。\n[popupdialog(dialogHead=\"$avatar_texas\", dialogY=\"$f_lower_dialog_pos_y\")]\\\nだが、敵は狂宴の刻の到来を阻んでくるから注意してくれ。\n[Battle.Pause(pause=false)]\n"
+}

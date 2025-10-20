@@ -1,0 +1,5 @@
+{
+  "path": "obt/guide/sandbox_perm/sandbox_1/trig_hunt_dungeon_superfood_1.txt",
+  "name": "trig_hunt_dungeon_superfood_1",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] 终极食物\n[SandboxV2.EnsureDungeonQuest(questId=\"trig_hunt_dungeon_superfood_1\")]\n[SandboxV2.EnsureDungeonStable]\n[Delay(time=0.5)]\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")]いいものを手に入れたようだな！これは珍しい効果永続食料だ！\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")]じいやの本によると、こうしたレアな食料は調理では入手できず、異獣を狩ることでしか得られないそうだ。\n[Tutorial(protectTime=0.8, dialogHead=\"$avatar_zumama\")]この食料は、永続的な能力上昇をもたらしてくれる。今後も、異獣秘境を継続的に探索して、もっと見つけていかないとな！\n[SandboxV2.EnsureDungeonStable]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act34side/training/training_act34side_01_a.txt",
+  "name": "training_act34side_01_a",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动34side教学关1_a\n[Battle.Pause]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_popka\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n怪物がいっぱいいすぎて、お掃除しきれなくなってきちゃった……\n[PopupDialog(dialogHead=\"$avatar_kroos\")] き～た～よ～――って、あれぇ～？　足の踏み場がないねぇ～……\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_leontuzzo_5_1_1.txt",
+  "name": "text_leontuzzo_5_1_1",
+  "text": "[dialog(head=\"npc_427_vigil_1\",delay=1,style=\"self\")]……あぁ、いつの間にかこんなところまで来ていたんだな。\n[VoiceWithin(head=\"npc_427_vigil_1\",delay=2)]しかし、これでも見つからないということは、彼女に避けられているのか……\n[VoiceWithin(head=\"npc_427_vigil_1\",delay=1)]だが、自分の考えを証明するためだろうと、突破口を追求するためだろうと、無暗に行動しないでくれよ、ラヴィニア。\n[VoiceWithin(head=\"npc_427_vigil_1\",delay=1)]……あんたが命を懸けるのに値するものなんてないんだから。\n"
+}

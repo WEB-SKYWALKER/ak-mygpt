@@ -1,0 +1,5 @@
+{
+  "path": "activities/act12d6/level_act12d6_entry.txt",
+  "name": "level_act12d6_entry",
+  "text": "[HEADER(key=\"title_test\", is_skippable=false, fit_mode=\"BLACK_MASK\")] \n[stopmusic]\n[Dialog]\n[Delay(time=1)]\n[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]\n[Background(image=\"bg_black\",screenadapt=\"coverall\")]\n[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]\n[playMusic(intro=\"$darkness01_intro\", key=\"$darkness01_loop\", volume=0.4)]\nケオベの顔に温かい感触が伝わってくる。何かが彼女を舐めているようだ。\n[Dialog]\n[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]\n[Background(image=\"bg_light\",screenadapt=\"coverall\")]\n[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]\n彼女が目を開くと、目の前には何もなく、周囲にはただカラフルな色がちりばめられているだけ。\n足元を見て、彼女は喜んだ。自分が大きなはちみつクッキーの上に立っている事に気付いたからだ。\nそして1つ、2つ、3つとはちみつクッキーが道となり、とある方向に伸びてゆく。\nどこかで不思議な力が自分を呼んでいるように感じて、彼女は歩き出した。\n[Dialog]\n[Blocker(fadetime=3,block=true)]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/training/training_act1sandbox_03_c.txt",
+  "name": "training_act1sandbox_03_c",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动act1sandbox教学关3_c\n[Battle.Pause]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n見つけた！ あれが脱出ポイントだよ！\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nあそこに一人オペレーターを送り込めば、越境通信を確立できる。そうすれば、安全に離脱できるようになるんだ！\n"
+}

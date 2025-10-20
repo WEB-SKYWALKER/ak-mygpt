@@ -1,0 +1,5 @@
+{
+  "path": "activities/act40side/training/training_act40side_01_h.txt",
+  "name": "training_act40side_01_h",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动40side教学关_h\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[PopupDialog(dialogHead=\"$avatar_dusk\")]最悪ね……でもどうせ大したことないんだし、自分でどうにかしなさい。\n[PopupDialog(dialogHead=\"$avatar_nian\")]けちな奴だな。見てろよ。\n[Battle.Pause(pause=false)]\n"
+}

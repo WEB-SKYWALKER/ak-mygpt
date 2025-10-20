@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_demetri_2_3_1.txt",
+  "name": "text_demetri_2_3_1",
+  "text": "[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]待ち伏せは頼んだぞ。\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]屋敷に残った運転手から何か連絡は入ったか？\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]いえ、何も。若旦那が出発したという知らせは誰も受け取っていませんし、今は全員待機しているそうです。\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]......\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]レオンは来ない。\n[dialog(head=\"npc_698_1\",delay=1,style=\"other\")]どうされたんでしょうか……？\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]聞きたいことが色々あるのはわかってる。\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]だが、これはあいつ自身が招いたことなんだ。このまま躊躇い続けるようなら、ドンが対処してくださるだろう。\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]だから今は、準備を整えればいいだけだ。ドンの命令に従ってな。\n[dialog(head=\"npc_690_1\",delay=1,style=\"self\")]俺たちは黙ってそれを完遂すればいい。\n"
+}

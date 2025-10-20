@@ -1,0 +1,5 @@
+{
+  "path": "activities/act32side/training/training_act32side_01_b.txt",
+  "name": "training_act32side_01_b",
+  "text": "[Tutorial(focusX=-103, focusY=113, focusWidth=287, focusHeight=120, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_doberm\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nあの敵は<@tu.kw>十字直線上</>の味方オペレーターに対し、<@tu.kw>「直線射撃」</>を仕掛けてくる。遠距離オペレーターの防御力では、この攻撃を防ぐのは困難だ。\n"
+}

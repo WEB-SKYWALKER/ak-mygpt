@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_4_a.txt",
+  "name": "mechanism_4_a",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 异常状态与抗性a\n[PopupDialog(dialogHead=\"$avatar_sys\")] 訓練が間もなく開始します……\n[PopupDialog(dialogHead=\"$avatar_sys\")] 状態異常認知訓練、スタート！\n"
+}

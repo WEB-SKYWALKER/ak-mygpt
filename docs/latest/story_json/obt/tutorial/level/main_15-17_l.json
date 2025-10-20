@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-17_l.txt",
+  "name": "main_15-17_l",
+  "text": "[header(actId=\"main15\")]主线15-17演出关dialog_l\n[isAvatarRight=false]PRTSは管理者権限を検出しました……完全制御権限の開放を拒否します。警告：権限が失効しました。\n[isAvatarRight=false]ユーザーによるデータベース検索を確認しました。キーワード：プリースティス……アクセス権限が開放されました――\n[delay(time=1)]\n<color=#ff2d00>私を探しているの、{@nickname}？　でも私は今あなたの目の前にいるでしょ？</color>\n[delay(time=1)]\n[resetcamera]\n[end]\n"
+}

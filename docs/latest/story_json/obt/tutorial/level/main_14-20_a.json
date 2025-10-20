@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_14-20_a.txt",
+  "name": "main_14-20_a",
+  "text": "[header(actId=\"main14\")]\n[camerafocusto(offsetX=\"2\", offsetY=\"2\", time=\"2\", scale=\"CLOSE\")]\n[delay(time=\"2\")]\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]あなたはもう自分を証明したわ……\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]アーミヤ。\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]でも、たとえあなたたちがその新たな力を背負うに十分だとしても私を越えられるとは限らないわ。\n[camerafocusto(offsetX=\"8\", offsetY=\"2\", time=\"2\", scale=\"CLOSE\")]\n[delay(time=\"2\")]\n[name=\"アーミヤ\", avatarId=\"char_1037_amiya3_2\", isAvatarRight=\"TRUE\"] この道の果てにある景色を見るまで、私は絶対に振り返りません。\n[name=\"アーミヤ\", avatarId=\"char_1037_amiya3_2\", isAvatarRight=\"TRUE\"] これこそが、あなたから受け継いだ信念です。\n[resetCamera(times=\"2\")]\n[delay(time=\"2\")]\n[end]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-17_k.txt",
+  "name": "main_15-17_k",
+  "text": "[header(is_skippable=false, is_autoable=false, is_tutorial=true)]主线15-17演出关story_k\n[battle.pause]\n[inputblocker(blockInput=true, black=0.3)]\n[popupdialog(dialogHead=\"$avatar_acast\")]戦線はすでに安定した。\n[popupdialog(dialogHead=\"$avatar_acast\")]勝利は目前だ――\n[battle.pause(pause=false)]\n"
+}

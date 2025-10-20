@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/mechanism_2_h.txt",
+  "name": "mechanism_2_h",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 我方索敌教学h\n[PopupDialog(dialogHead=\"$avatar_stward\")] 間にあったみたいだね。僕たちが応援するよ！\n[PopupDialog(dialogHead=\"$avatar_kroos\")] ド、ドクター！指揮をお願い！\n[PopupDialog(dialogHead=\"$avatar_kroos\")] 光る盾に火力を全部引き付けられないよう気を付けるんだよぉ！\n"
+}

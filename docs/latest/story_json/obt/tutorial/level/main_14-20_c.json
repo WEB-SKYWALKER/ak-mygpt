@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_14-20_c.txt",
+  "name": "main_14-20_c",
+  "text": "[header(actId=\"main14\")]\n[camerafocusto(offsetX=\"3.5\", offsetY=\"2\", time=\"2\", scale=\"CLOSE\")]\n[delay(time=\"2\")]\n[name=\"アーミヤ\", avatarId=\"char_1037_amiya3_2\", isAvatarRight=\"FALSE\"]自分の力を、自分の感情を、自分の意志を……\n[name=\"アーミヤ\", avatarId=\"char_1037_amiya3_2\", isAvatarRight=\"FALSE\"]テレジアさん、私は決して諦めたりしません。\n[resetCamera(times=\"2\")]\n[delay(time=\"2\")]\n[end]\n"
+}

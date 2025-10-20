@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/guide_02_i.txt",
+  "name": "guide_02_i",
+  "text": "[HEADER(is_tutorial=true)] 引导关卡2_g\n[Battle.Pause]\n[PopupDialog(dialogHead=\"$avatar_amiya\")] よし！\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 目を覚ましたばかりなのに、こんなに早く指揮能力を取り戻せるなんて……\n[PopupDialog(dialogHead=\"$avatar_amiya\")] 少し休みましょう。ここからは……さらに重要な任務が待っていますから。\n"
+}

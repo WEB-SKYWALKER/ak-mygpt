@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/level/main_15-17_m.txt",
+  "name": "main_15-17_m",
+  "text": "[header(actId=\"main15\")]主线15-17演出关dialog_m\n[isAvatarRight=false]<color=#ff2d00>このお遊びにもだんだんと慣れてきたみたいね。</color>\n[isAvatarRight=false]<color=#ff2d00>きっとこのまま負けを認めるつもりはないよね？</color>\n<color=#ff2d00>これまでの指揮のように、勝利を得たいと思っているのね――</color>\n<color=#ff2d00>Abyssの奥深くで、私に関するさらなる秘密を見つけられると信じているのね――</color>\n[delay(time=1)]\n[resetcamera]\n[end]\n"
+}

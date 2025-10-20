@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_market_trademan1.txt",
+  "name": "dialog_sandbox_1_market_trademan1",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"連絡員\", avatarId=\"trap_415_trademan\", isAvatarRight=\"FALSE\"]やあみんな！　おかげさまで、教えてもらった道をたどって、ようやくここを見つけることができたよ。だけど、まだ新製品は持ってきてなくてさ……\n[decision(option1=\"それで、この場所の居心地は？\", value1=\"1.1\", option2=\"それならまた来よう。\", value2=\"1.2\")]\n[predicate(references=\"1.1\", visibleCondition=\"!c0\")]\n[name=\"連絡員\", avatarId=\"trap_415_trademan\", isAvatarRight=\"FALSE\"]すごく快適だよ。この辺にこんなに楽しい場所があるなんて思いもしなかった！　感謝の気持ちを込めて、ささやかなプレゼントを贈らせてね。\n[additem(itemId=\"sandbox_1_craft_7\", itemCount=\"1\")]\n[decision(option1=\"ありがとう。\", value1=\"2.1\")]\n[predicate(references=\"2.1\")]\n[end]\n[predicate(references=\"1.2\")]\n[end]\n[condition(references=\"c0\", key=\"itemGE\", itemId=\"sandbox_1_craft_7\", value=\"1\")]\n"
+}

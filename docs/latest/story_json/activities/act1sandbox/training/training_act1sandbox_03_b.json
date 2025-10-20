@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/training/training_act1sandbox_03_b.txt",
+  "name": "training_act1sandbox_03_b",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)] 活动act1sandbox教学关3_b\n[Battle.Pause]\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n紛争エリアで本当に死ぬようなことはないって言ったのは理由がある。ここには、安全に撤退できる場所があるからなんだ！\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n脱出地点を見つけられたら、それまでに集めた資源の一部を持って無事にこの場所を離れられる。この場合、今回のサルゴンでの挑戦自体が終了ってことになるよ。\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\nただ、紛争エリアは争いが絶えないから、脱出ポイントの具体的な場所は僕にもわからないんだけど……\n[Tutorial(protectTime=0.5, dialogHead=\"$avatar_trademan\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")] \\\n防衛ラインに入られないように守りを固めつつ、あちこちに人を送って脱出ポイントを探してみよう！\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_sora_1_2_1.txt",
+  "name": "text_sora_1_2_1",
+  "text": "[narration(delay=1)]ソラの注文を聞いた店主は、慣れた手つきで裁縫箱を取り出して修繕を始めた。\n[narration(delay=1)]そうして少し世間話をしたあと、彼は突然手を止める。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]……デッラルバ劇団の主演を務めていると仰ってましたよね？\n[dialog(head=\"npc_101_sora_1\",delay=1,style=\"self\")]ええ。どうかしましたか？\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]いえ……何でもありません。\n[narration(delay=1)]ネックレスを編む彼の手が幾分か慎重さを増した。\n[Obtain(id=\"item_chain\",delay=1.5)]\n"
+}

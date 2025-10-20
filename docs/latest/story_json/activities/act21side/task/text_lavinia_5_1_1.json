@@ -1,0 +1,5 @@
+{
+  "path": "activities/act21side/task/text_lavinia_5_1_1.txt",
+  "name": "text_lavinia_5_1_1",
+  "text": "[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]あなたは……ラヴィニア先輩ですよね？\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]ええ。あなたは……？\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]僕、あなたの後輩なんです！前に学校で、先輩のスピーチを聞いたことがあって。あの時は……実を言うと、そこまで本気で受け止めてなかったんですけどね。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]正直……失礼ですけど、また偉そうな人がご大層なことを言いに来たなと思ってたくらいでした。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]でも、このところ色んなことが起きたので、自分でも話を聞いて回っていたら、裁判所の守衛さんがあなたのなさったことを教えてくれて……僕も今では、あのスピーチで仰っていたことが本心だったと信じています。\n[dialog(head=\"npc_4065_judge_1\",delay=1,style=\"self\")]それを伝えるためにわざわざ探しに来てくれたの？どうもありがとう。\n[dialog(head=\"npc_696_1\",delay=1,style=\"other\")]そんな、お礼を言うべきなのは僕のほうですよ！お陰でこの先何がしたいかがはっきりわかったんですから！\n"
+}

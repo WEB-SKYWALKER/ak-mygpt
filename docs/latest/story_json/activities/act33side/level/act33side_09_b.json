@@ -1,0 +1,5 @@
+{
+  "path": "activities/act33side/level/act33side_09_b.txt",
+  "name": "act33side_09_b",
+  "text": "[header(actId=\"act33side\")]\n[camerafocusto(offsetX=\"5\", offsetY=\"3\", time=\"3\", scale=\"FAR\")]\n[delay(time=\"2\")]\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]ドクター、これがあなたの最後の決断なの？\n[name=\"テレジア\", avatarId=\"npc_1296_tersia\", isAvatarRight=\"FALSE\"]……私の同胞たちよ、あなたたちの決死の覚悟には敬服するわ。\n[delay(time=\"1\")]\n[end]\n"
+}

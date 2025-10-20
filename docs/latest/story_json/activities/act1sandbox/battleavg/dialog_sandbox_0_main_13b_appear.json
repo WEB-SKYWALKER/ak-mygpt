@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/battleavg/dialog_sandbox_0_main_13b_appear.txt",
+  "name": "dialog_sandbox_0_main_13b_appear",
+  "text": "[HEADER(actId=\"act1sandbox\", npcId=\"trap_434_klmantc\")] \n[character(name=\"avg_npc_802_1\", offsetX=\"125\", offsetY=\"100\")]\n[name=\"殺し屋のマンティコア\"]……ごほっ……げほっ……\n[name=\"殺し屋のマンティコア\"]……\n[End]\n"
+}

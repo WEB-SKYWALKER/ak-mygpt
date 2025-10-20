@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_level_05.txt",
+  "name": "dialog_sandbox_1_level_05",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")]\n洞窟に入る際の注意事項： \n1.マナーを守り、不慣れな場所には勝手に立ち入らないでください。\n2.鉱脈の構造には規則性があるため、採掘の際には注意してください。\n[end]\n"
+}

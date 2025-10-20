@@ -1,0 +1,5 @@
+{
+  "path": "activities/act26side/training/training_act26side_01_g.txt",
+  "name": "training_act26side_01_g",
+  "text": "[HEADER( is_tutorial=true, is_skippable=false, is_autoable=false)] 拉特兰圣像栈道教学_g\n[Battle.LockFunction(mask=\"SYSTEM_MENU_INTERACT\")]\n[Battle.Pause]\n[Battle.UnlockFunction(mask=\"CHARACTER_INFO\")]\n[Battle.UnlockFunction(mask=\"CHARACTER_MENU\")]\n[Battle.UnlockFunction(mask=\"CARD_LIST\")]\n[Tutorial( focusX=-59, focusY=66, focusWidth=100, focusHeight=100, anchor=\"BottomRight\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightCircle\", black=0.5, \\\n          protectTime=0.5,  dialogHead=\"$avatar_amiya\")] \\\n心配しないでください。<@tu.kw>予備木材</>を使って道を修復してあげることができます。\n[InputBlocker(blockInput=false)]\n[Tutorial(waitForSignal=\"put_down\",animStyle=\"Drag\", startX=-59, startY=66, endX=54, endY=-136, dialogY=50, startAnchor=\"BottomRight\", endAnchor=\"Center\", dialogHead=\"$avatar_amiya\")]\n[InputBlocker(blockInput=true)]\n[Battle.UnlockFunction(mask=\"SYSTEM_MENU_INTERACT\")]\n"
+}

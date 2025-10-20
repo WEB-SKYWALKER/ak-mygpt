@@ -1,0 +1,5 @@
+{
+  "path": "activities/act39side/training/training_act39side_01_e.txt",
+  "name": "training_act39side_01_e",
+  "text": "[HEADER(is_tutorial=true, is_skippable=false)]  活动39side教学关_e\n[Battle.Pause]\n[InputBlocker(blockInput=true, black=0.3)]\n[PopupDialog(dialogHead=\"$avatar_doberm\")]やはり、向こうのルートが変わったな。吊り橋を通って向かってくるぞ！\n[PopupDialog(dialogHead=\"$avatar_beagle\")]わたしが食い止めます！\n[PopupDialog(dialogHead=\"$avatar_melan\")]吊り橋を架けている海賊は、私が倒します。\n[Battle.Pause(pause=false)]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "path": "activities/act1sandbox/battleavg/dialog_sandbox_0_default.txt",
+  "name": "dialog_sandbox_0_default",
+  "text": "[HEADER(actId=\"act1sandbox\", npcId=\"\")] \n[character(name=\"char_empty_b\", offsetX=\"100\", offsetY=\"100\")]\n[name=\"？？？\"]ようこそ。\n[End]\n"
+}

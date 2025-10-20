@@ -1,0 +1,5 @@
+{
+  "path": "activities/act28side/training/training_act28side_01_c.txt",
+  "name": "training_act28side_01_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 黑钢教学_c\n[Tutorial(focusX=-135, focusY=27, focusWidth=150, focusHeight=150, \\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=2, dialogHead=\"$avatar_liskam\",dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\")]\\\n敵はエネルギーが満タンになると<@tu.kw>過負荷</>状態になる。これは<@tu.kw>攻撃速度、防御力、術耐性のすべてが大幅に上昇していることを意味する</>──と、やれやれ。\n[Tutorial(dialogHead=\"$avatar_franka\", black=\"$f_tut_black\")] \\\nさっすが優等生サマね。こんな素早い攻撃も止められるなんて。\n[Tutorial(dialogHead=\"$avatar_liskam\", black=\"$f_tut_black\")] \\\n敵のこの状態は長くは続かないし、わたしが攻撃を引き付けるよ！\n"
+}

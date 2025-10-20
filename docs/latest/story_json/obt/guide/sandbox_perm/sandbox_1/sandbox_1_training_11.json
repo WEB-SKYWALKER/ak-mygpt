@@ -1,0 +1,5 @@
+{
+  "path": "obt/guide/sandbox_perm/sandbox_1/sandbox_1_training_11.txt",
+  "name": "sandbox_1_training_11",
+  "text": "[HEADER(is_skippable=false, is_tutorial=true)] 尾声\n[SandboxV2.EnsureDungeonQuest(questId=\"training_11\", isForceTutorial=true)]\n[SandboxV2.EnsureDungeonStable]\n[Delay(time=0.5)]\n[Tutorial(dialogHead=\"$avatar_zumama\", dialogX=\"$f_lower_dialog_pos_x\", dialogY=\"$f_lower_dialog_pos_y\", protectTime=1)]基本となる知識は、これで伝え終えたな。\n[SandboxV2.SettleGameAndLeave]"
+}

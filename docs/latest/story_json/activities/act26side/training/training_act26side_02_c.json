@@ -1,0 +1,5 @@
+{
+  "path": "activities/act26side/training/training_act26side_02_c.txt",
+  "name": "training_act26side_02_c",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 拉特兰落石教学_c\n[PopupDialog(dialogHead=\"$avatar_jesica\")]報告です！　住民の一人が、落石が転がってきた方向へ向かっているようです……\n[PopupDialog(dialogHead=\"$avatar_jesica\")]ど、どうしますか？　さっきの落石で道が破壊されたばかりで、修復が間に合いません！\n"
+}

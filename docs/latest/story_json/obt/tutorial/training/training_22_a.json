@@ -1,0 +1,5 @@
+{
+  "path": "obt/tutorial/training/training_22_a.txt",
+  "name": "training_22_a",
+  "text": "[HEADER(is_skippable=true, is_autoable=false)] 第十二章教学关_a\n[Tutorial(focusX=-80, focusY=200, focusWidth=150, focusHeight=100, anchor=\"BottomRight\",\\\n          animStyle=\"Highlight\", focusStyle=\"HighlightRect\", black=\"$f_tut_black\", \\\n          protectTime=0.5, dialogHead=\"$avatar_siege\")] \\\n今回のノーポート区における特別作戦は、複雑な作戦環境により、オペレーターを配置するための初期所持コストに大幅な制限を受けることになる。\n"
+}

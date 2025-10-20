@@ -1,0 +1,5 @@
+{
+  "path": "obt/sandboxperm/sandbox_1/battleavg/dialog_sandbox_1_market_tegmaus.txt",
+  "name": "dialog_sandbox_1_market_tegmaus",
+  "text": "[header(actId=\"sandbox_1\", npcId=\"\")] \n[name=\"ペペ\", avatarId=\"bavg_npc_001\", isAvatarRight=\"FALSE\"]やあ、久しぶりだね。偶然通りかかったから、会いに来てみたよ。\n[name=\"ペペ\", avatarId=\"bavg_npc_001\", isAvatarRight=\"FALSE\"]折角だからちょっとしたプレゼントをあげようじゃないか。\n[additem(itemId=\"sandbox_1_dimensioncoin\", itemCount=\"1\")]\n[name=\"ペペ\", avatarId=\"bavg_npc_001\", isAvatarRight=\"FALSE\"]では、もう行くよ。お礼は結構さ。\n[withdraw(id=\"trap_471_tegmaus\", withoutAnim=\"FALSE\")]\n[save]\n[end]\n"
+}
